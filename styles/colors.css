@@ -1,0 +1,40 @@
+div {
+    height: 20em;
+    width: 20em;
+    float: left;
+}
+
+#dark-brown {
+    background-color: #362A24; /*fallback*/
+    background-color: rgb(54,42,36);
+}
+
+#medium-brown {
+    background-color: #654D3B; /*fallback*/
+    background-color: rgb(101,77,59);
+}
+
+#light-brown {
+    background-color: #AFA287; /*fallback*/
+    background-color: rgb(175,162,135);
+}
+
+#beige {
+    background-color: #F5EFD7; /*fallback*/
+    background-color: rgb(245,239,215);
+}
+
+#kal-yellow {
+    background-color: #F6EE6B; /*fallback*/
+    background-color: rgb(246,238,107);
+}
+
+#kal-purple {
+    background-color: #844C9D; /*fallback*/
+    background-color: rgb(132,76,157);
+}
+
+#kal-red {
+    background-color: #EA2226; /*fallback*/
+    background-color: rgb(234,34,38);
+}
