@@ -1,5 +1,7 @@
 <?php include 'header.php'; ?>
 
+<div class="callout">We will be closed on Monday, March 28th for a Staff Professional Day.<br>We are also closed on Monday, April 18th in observation of Patriots' Day.</div>
+
 <h3>PRESCHOOL 4 year old Room OPENINGS: Stow, MA</h3>
 <p class="teacher">
 Here at Kids A Lot Country Day School, we focus on teaching the whole child so that our children will have the solid foundation on which to build in future years. Our Preschool Program focuses on developing skills in all areas such as gross motor, fine motor, cognitive, language, creative, emotional and social. We also work to advance child’s early math, science, and pre-reading skills by providing them with an environment that is interactive and inviting to a young child’s curiosity. Come visit with our teaching team and join in the fun today!<br><br>

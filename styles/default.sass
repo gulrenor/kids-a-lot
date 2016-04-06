@@ -10,24 +10,20 @@
 //
 @import url(https://fonts.googleapis.com/css?family=Arvo:400,700,400italic|Rancho)
 
-
 // Variables
+$fontbody: 'Arvo', serif
+$fontscript: 'Rancho', fantasy, cursive
 $brown1: rgb(101, 77, 59)
 $brown2: rgb(54, 42, 36)
 $tan1: rgb(175, 162, 135)
-
-$fontbody: 'Arvo', serif
-$fontscript: 'Rancho', fantasy, cursive
-
+$cream1: rgb(245, 239, 215)
+$kal-purple: rgb(132, 76, 157)
+$kal-red: rgb(236,31,35)
+$kal-yellow: rgb(246, 238, 107)
 @mixin defaultfont
   font-family: $fontbody
   line-height: 1.75rem
   font-weight: 400
-
-$kal-purple: rgb(132, 76, 157)
-$kal-red: rgb(236,31,35)
-$kal-yellow: rgb(246, 238, 107)
-
 
 // =====================
 // === GLOBAL STYLES ===
@@ -39,10 +35,17 @@ $kal-yellow: rgb(246, 238, 107)
   box-sizing: border-box
   font-size: 16px
 
+html
+  background-image: url(../images/header-new-bg.png)
+  background-repeat: repeat-x
+
 body
   height: 100%
   color: $brown1
   @include defaultfont
+
+p
+  font-size: 1rem
 
 h1
   font-size: 2.625rem
@@ -56,65 +59,48 @@ h3
 h1, h2, h3
   letter-spacing: -0.05rem
 
-h1, h2, h3, p
+h1, h2, h3
   margin: 1em 0 1em 0
 
 
 // === Basic Formatting ===
-em
-  font-style: italic
-
-.centered
-  text-align: center
-
-.bullet
-  margin-left: 1.5rem
-  list-style-type: disc
-
-.rancho
-  font-family: 'Rancho', fantasy, cursive
-  font-size: 2rem
-
-.responsive-break
-  display: block
-
 a, a:hover, a:active, a:visited
   text-decoration: none
   color: $brown1
 
-hr
-  width: 90%
-  margin: 0 auto
-  height: 1px
-  color: $tan1
-  border: 0
-  margin-top: 1em
-  margin-bottom: 1em
 
+/* ============ */
 /* === MAIN === */
-.callout
-  display:block
-  width: 100%
-  background-color: #992222
-  border: 2px solid #660000
-  padding: 1em
-  color: white
-  font-style: oblique
-  text-align: center
-
-.container
-  background-image: url(../images/textured_paper_colored.png)
+/* ============ */
+#container
   max-width: 960px
   margin: 0 auto
-  min-height: 100px
-  border-left: 1px solid $brown1
-  border-right: 1px solid $brown1
 
 .content
-  margin-left: 2em
-  margin-right: 2em
-  padding-bottom: 4em
+  position: relative
+  height: 70vh
 
+
+/* ============== */
+/* === HEADER === */
+/* ============== */
+#header
+  position: relative
+  max-width: 100vw
+  text-align: center
+  #header-img
+    width: 100%
+  #horses
+    position: absolute
+    left: 0
+    //moves them to about ground level
+    bottom: 20%
+    width: 100%
+    display: flex
+    flex-direction: row
+    justify-content: space-between
+    img
+      width: 10%
 #log
   position: absolute
   top: 210px
@@ -138,49 +124,30 @@ hr
   z-index: 1
   background-size: cover
 
-/* === HEADER === */
 
-#header
-  position: relative
-  background-image: url(../images/header-new-bg.png)
-  background-repeat: repeat-x
-  max-width: 100%
-  text-align: center
-  div
-    position: relative
-    width: 960px
-    margin: 0 auto
-    img:nth-of-type(n+2)
-      // select everything but the first img
-      position: absolute
-      top: 50px
-      border: 0
-    img:nth-of-type(2)
-      left: 0
-    img:nth-of-type(3)
-      right: 0
-
-
+/* ============== */
 /* === FOOTER === */
+/* ============== */
 #footer
-  min-height: 15em
-  background-image: url(../images/footer_bg.png)
-  div
-    background-color: $brown2
+  position: absolute
+  bottom: 0
+  left: 0
+  width: 100vw
+  background-color: $brown2
+  .container
+    display: flex
+    flex-direction: row
+    justify-content: space-between
+    align-items: center
     color: $tan1
-    display: block
-    max-width: 890px
+    width: 960px
+    max-width: 100%
     margin: 0 auto
-    padding: 5em 1em 0em 1em
-  .address
-    float: right
-  .address p
-    margin: 0
-  h2
-    margin-top: 0
 
 
+/* ============ */
 /* === NAV2 === */
+/* ============ */
 #nav
   position: relative
   .yellow
@@ -191,7 +158,7 @@ hr
     background-image: url(../images/flag_red.png)
 
 #nav-menu
-  font-family: 'Rancho', fantasy, cursive
+  font-family: $fontscript
   font-size: 1.6rem
   text-align: center
   line-height: 1.8rem
@@ -205,7 +172,7 @@ hr
       content: ""
       display: block
       padding-top: 122%
-      /*14:17 ratio*/
+      // 14:17 ratio
   li
     position: absolute
     top: 0
@@ -254,7 +221,10 @@ hr
   background-repeat: no-repeat
   background-position: center
 
+
+/* =============== */
 /* === CIRCLES === */
+/* =============== */
 .circle
   width: 3.4em
   height: 3.4em
@@ -273,9 +243,7 @@ hr
 #programs
   .circle
     background-color: $brown2
-    color: #F5EFD7
-    /*fallback*/
-    color: rgb(245, 239, 215)
+    color: $cream1
     margin-right: 0.25em
     p:nth-child(1)
       top: 0.5em
@@ -284,7 +252,7 @@ hr
 
 #extras
   .circle
-    font-family: 'Rancho', fantasy, cursive
+    font-family: $fontscript
     p:nth-child(1)
       font-size: 0.5em
     p:nth-child(2)
@@ -534,27 +502,25 @@ form#contactus textarea
 @media (max-width: 978px)
   html
     font-size: 14px
-
   #teacher-picture img
     width: 7rem
-
   .container
     width: 100%
-
   .header
     background-size: cover
     div
       width: 100%
       height: auto
 
+@media (max-width: 960px)
+  html
+    background-image: none
 
 @media (max-width: 760px)
   .responsive-break
     display: none
-
   #nav span
     font-size: 1.2rem
-
   .programs-3col
     width: 50%
     /*2 columns*/
@@ -562,3 +528,14 @@ form#contactus textarea
 @media (max-width: 400px)
   html
     font-size: 12px
+  #footer
+    .container
+      flex-direction: column
+      align-content: space-between
+      div, h2
+        text-align: center
+        max-width: 100vw
+
+@media (max-width: 200px)
+  html
+    font-size: 10px

@@ -105,9 +105,7 @@
                     <img src="images/staff/danielle_a.jpg" />
                     <span>Danielle Aucoin</span>
                 </div>
-                <p id="teacher-bio">
-                    <!--insert-->
-                </p>
+                <p id="teacher-bio">Hello, my name is Danielle Aucoin.  I am a DEEC Preschool Certified Teacher and I am thrilled to join the 3’s classroom at Kids-A-Lot. I have a B.A. in Theatre Arts from Plymouth State University with an emphasis in Musical Theatre.   While I am extremely passionate about theatre, I am also passionate about working with children, which has led me to Kids-A-Lot where I can blend my two passions together.  At the preschool age children naturally play make believe and create imaginative stories.  They are at the perfect age to explore the world of theatre.   I am excited to teach the children self-expression, teamwork, and following directions, among many other things!                </p>
                 <hr id="clear" />
             </div>
 
