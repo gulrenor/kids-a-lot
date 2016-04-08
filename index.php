@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<div class="callout">We will be closed on Monday, March 28th for a Staff Professional Day.<br>We are also closed on Monday, April 18th in observation of Patriots' Day.</div>
+<div class="callout">We will be closed on Monday, April 18th in observation of Patriots' Day.</div>
 
 <h3>PRESCHOOL 4 year old Room OPENINGS: Stow, MA</h3>
 <p class="teacher">
