@@ -60,6 +60,7 @@ hr {
 
 /* === MAIN === */
 .callout {
+  display: block;
   width: 100%;
   background-color: #992222;
   border: 2px solid #660000;
@@ -233,7 +234,7 @@ hr {
 
 #programs .circle {
   background-color: #362a24;
-  color: #f5efd7;
+  color: #F5EFD7;
   /*fallback */
   color: #f5efd7;
   margin-right: 0.25em; }
@@ -363,10 +364,10 @@ table.sidebar-table {
 
 .sidebar-table tbody tr {
   margin: 10px;
-  background-color: #b0a388; }
+  background-color: #B0A388; }
 
 .sidebar-table tbody tr:nth-of-type(even) {
-  background-color: #d6cda8; }
+  background-color: #D6CDA8; }
 
 .sidebar-table tbody td {
   padding: 5px;
@@ -424,7 +425,7 @@ form#contactus textarea {
 
 .collapsed-list div {
   float: right;
-  background-color: #ffcc00; }
+  background-color: #FC0; }
 
 .collapsed-list li {
   display: block;
@@ -454,7 +455,7 @@ form#contactus textarea {
   right: 0;
   width: 50%;
   height: 100%;
-  background-color: #d6cda8;
+  background-color: #D6CDA8;
   overflow-y: auto; }
 
 .icmCollapser {
@@ -507,3 +508,5 @@ form#contactus textarea {
 @media (max-width: 400px) {
   html {
     font-size: 12px; } }
+
+/*# sourceMappingURL=default.css.map */
