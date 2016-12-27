@@ -1,10 +1,11 @@
 
-# Created by https://www.gitignore.io/api/windows,vagrant,sass
+# Created by https://www.gitignore.io/api/windows,vagrant,sass,adobe,git
 
 ### Windows ###
-# Windows image file caches
+# Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
+ehthumbs_vista.db
 
 # Folder config file
 Desktop.ini
@@ -24,14 +25,23 @@ $RECYCLE.BIN/
 
 ### Vagrant ###
 .vagrant/
-bootstrap.sh
-Vagrantfile
 
 
 ### Sass ###
 .sass-cache/
 *.css.map
 
-### Adobe Bridge ###
-.BridgeCache
-.BridgeCacheT
+
+### Adobe ###
+# Adobe Source Files
+*.psd
+*.ai
+*.indd
+*.prproj
+*.aep
+
+
+### Git ###
+*.orig
+
+# End of https://www.gitignore.io/api/windows,vagrant,sass,adobe,git
