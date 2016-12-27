@@ -10,5 +10,3 @@
 <p>Kids-A-lot’s $<?php echo $registration[0]; ?> annual registration fee ($<?php echo $registration[1]; ?> for infants) is non-refundable.It goes toward supplies, fees and costs needed to provide your child with a quality care program.</p>
 <h3>Security Deposit</h3>
 <p>At the time of enrollment the parents are required to pay the last two weeks tuition in advance. This payment is non-refundable and is credited towards your child’s last two weeks at Kids-A-lot. A month’s written notice is required so that we may fill your child’s slot. If a month’s written notice is not given the security deposit will not be credited to your child’s last month payment as stated above.</p>
-<h3>Discounts</h3>
-<p>Two Full Time children, 10% discount off the total tuition amount. (This is applied only when payments are on time.)</p>
