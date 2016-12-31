@@ -40,6 +40,9 @@ $RECYCLE.BIN/
 *.prproj
 *.aep
 
+.BridgeCache
+.BridgeCacheT
+
 
 ### Git ###
 *.orig
