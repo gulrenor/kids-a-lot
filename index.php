@@ -1,5 +1,6 @@
 <?php include 'header.php'; ?>
 
+<!--<h1 class="centered">Let Us Introduce Your Child <br class="responsive-break" />to a World of Learning and Growing</h1>-->
 <img src="images/kal-sign.jpg" style="float: right; margin:1em; background-image:url(images/frame.png) no-repeat center center fixed; background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;

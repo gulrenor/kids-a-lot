@@ -3,8 +3,16 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <link rel="stylesheet" type="text/css" href="styles/normalize.css">
+
+    <link rel="stylesheet" type="text/css" href="styles/reset.css">
+    <link href='http://fonts.googleapis.com/css?family=Arvo|Rancho' rel='stylesheet' type='text/css'>
+
     <link rel="stylesheet" type="text/css" href="styles/default.css">
+
+    <script type="text/javascript" src="scripts/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="scripts/underline.js"></script>
+    <script type="text/javascript" src="scripts/whatsnew.js"></script>
+
     <title>Kids-a-Lot</title>
 </head>
 
