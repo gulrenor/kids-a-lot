@@ -1,79 +1,7 @@
 <?php include 'header.php'; ?>
 
     <div id="sidebar" class="right">
-
-        <h2>Rates</h2>
-        <p>Infant, Toddler and Preschool fees are distributed over 12 months evenly. The rate is the same each month regardless of the number of days of attendance. Program runs from 7am to 6pm, 5 days per week, 50 weeks per year. The Center is closed Christmas week and last week of August.</p>
-
-        <table class="sidebar-table">
-            <thead>
-                <tr>
-                    <th colspan="2">Full-time (7:00am - 6:00pm)</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>5 Days</td>
-                    <td>$
-                        <?php echo $rate_wise_wizards[0]; ?>
-                    </td>
-                </tr>
-                <tr>
-                    <td>4 Days</td>
-                    <td>$
-                        <?php echo $rate_wise_wizards[1]; ?>
-                    </td>
-                </tr>
-                <tr>
-                    <td>3 Days</td>
-                    <td>$
-                        <?php echo $rate_wise_wizards[2]; ?>
-                    </td>
-                </tr>
-                <tr>
-                    <td>2 Days</td>
-                    <td>$
-                        <?php echo $rate_wise_wizards[3]; ?>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-        <table class="sidebar-table">
-            <thead>
-                <tr>
-                    <th colspan="2">Part Time (9:00am - 3:00pm)</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>5 Days</td>
-                    <td>$
-                        <?php echo $rate_wise_wizards[4]; ?>
-                    </td>
-                </tr>
-                <tr>
-                    <td>4 Days</td>
-                    <td>$
-                        <?php echo $rate_wise_wizards[5]; ?>
-                    </td>
-                </tr>
-                <tr>
-                    <td>3 Days</td>
-                    <td>$
-                        <?php echo $rate_wise_wizards[6]; ?>
-                    </td>
-                </tr>
-                <tr>
-                    <td>2 Days</td>
-                    <td>$
-                        <?php echo $rate_wise_wizards[7]; ?>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-
         <?php include 'rates_extra.php'; ?>
-
     </div>
 
 
