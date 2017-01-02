@@ -62,7 +62,7 @@
 
             <p>You may be seeing some different faces this month at Kids-A-Lot. Many of our college students will be returning to us to assist us in the upcoming months &amp; summer. Many have been with us over the years and we look forward to their support.</p>
 
-            <p>We are proud to announce that Kids-A-Lot has <strong><a href="/docs/Water%20Letter.pdf">won an award for being one of the top Public Water Systems of 2015.</a></strong> It is something that we are very proud of and will continue to do our best to provide the best water quality for our children.</p>
+            <p>We are proud to announce that Kids-A-Lot has <strong><a href="/docs/Water%20Letter.pdf">won an award for being one of the top Public Water Systems of 2016.</a></strong> It is something that we are very proud of and will continue to do our best to provide the best water quality for our children.</p>
 
             <p>Dave will be spraying his "all natural" bug spray around the playground this weekend in order to cut down on mosquitos/ticks population. This product is safe for our children &amp; staff it is made from garlic extract.</p>
 
