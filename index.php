@@ -25,18 +25,6 @@
 
     <div class="teacher">
         <div id="teacher-picture">
-            <img src="images/staff/maryann_d_2.jpg" />
-            <span>Maryann Deignan</span>
-        </div>
-
-        <p>Maryann opened Kids-a-Lot in September 1987 serving as both teacher and director. Her goal was to provide a warm, loving, and educational environment for young children. Maryann earned her Bachelor of Science degree from Bridgewater State College. She has done graduate course work at Lesley College.</p>
-        <p>Maryann is a member of the NAEYC Association and BAEYC Association, Nashoba Community Partnership Council, Stow Business Association, and the National Federation of Independent Businesses. Maryann is on the Advisory Board of the Early Childhood program at Minuteman Vocational Technical High School. She is also the Secretary of the Board of the Clover Foundation -- an organization created to help build a better future for the impoverished children of Uganda. Her teaching experience includes teaching special needs children at St. Coletta School in Braintree, multiple handicapped students at the Protestant Guild for the Blind in Watertown, and nursery school students in Irvine, CA and Acton MA. Maryann is passionate about enriching the lives of children.</p>
-        <p>She has been serving exclusively as Director since 1989, planning staff education workshops, children’s enrichment activities, accreditation, and facility improvements. Maryann is married and resides in Carlisle. Her husband, Chris, is responsible for the construction improvements within Kids-A-Lot. She has four children ages 18-25 (James, Caroline, Connor, Hannah.) She enjoys reading, walking, traveling, skiing, and spending time with her family and friends. Maryann hopes to one day pen a children’s book, filling it with anecdotes from her great experiences with children!</p>
-
-    </div>
-
-    <div class="teacher">
-        <div id="teacher-picture">
             <img src="images/staff/jennifer_k.jpg" />
             <span>Jennifer Kydd</span>
         </div>
