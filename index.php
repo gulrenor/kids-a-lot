@@ -48,7 +48,7 @@
         <img src="images/staff/pam_s.jpg" />
         <span>Pam Stander</span>
     </div>
-    <p>Pam has been a Bookkeeper and Small Business Office Manager for over 20 years. Her favorite job has been and still is working for Kids-A-Lot (15 years in 2015.) She loves when the children stop by the office to brighten up her day. The environment at Kids-A-Lot is second to none! Pam enjoys walking, striper fishing with her husband Dave, reading, and entertaining guests. She also enjoys trips to the Outer Banks in North Carolina with her family. Pam is the mother of two grown children and in 2012 became a proud grandmother! (Biggest striper Pam caught: 42”)</p>
+    <p>Pam has been a Bookkeeper and Small Business Office Manager for over 20 years. Her favorite job has been and still is working for Kids-A-Lot (16 years in 2016.) She loves when the children stop by the office to brighten up her day. The environment at Kids-A-Lot is second to none! Pam enjoys walking, striper fishing with her husband Dave, reading, and entertaining guests. She also enjoys trips to the Outer Banks in North Carolina with her family. Pam is the mother of two grown children and in 2012 became a proud grandmother! (Biggest striper Pam caught: 42”)</p>
   </div>
 
   <hr id="clear" />
