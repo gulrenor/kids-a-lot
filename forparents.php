@@ -134,6 +134,13 @@
                 </div>
             </li>
 
+            <li class="icmClicker">
+                <a>Ear Infection</a>
+                <div class="icmCollapser">
+                    <p>Ear Infection</p>
+                </div>
+            </li>
+
             <br style="clear:both;" />
         </div>
 
@@ -152,7 +159,7 @@
     <h2>Weather Closings</h2>
     <p>During the winter months, it may be necessary because of a heavy snowstorm to delay our opening time to allow for some clearing of the parking lot and walkways or to close early for safer travel. Kids-A-Lot makes every attempt to remain open throughout storm days. We take into account forecasted weather, sate advisories, and the safety of travel for parent’s, children, and staff.</p>
 
-    <p><strong>Parents Please Note</strong>: It is very important that you call the Center and check for a recorded message. All the information that you will need to know regarding the opening or closing of the Center will be on the recording.</p>
+    <p><strong>Parents Please Note</strong>: It is very important that you call the Center and check for a recorded message or check the website for snow day updates in the event of a storm. All the information that you will need to know regarding the opening or closing of the Center will be on the Facebook page or recording.</p>
 </div>
 
 <hr id="clear" />
