@@ -65,7 +65,17 @@
             </div>
             <p id="teacher-bio">Sharyn has been working with young children for forty one years. Sharyn is Preschool Teacher DEEC Certified and before working at Kids-A-Lot (twenty four years ago,) Sharyn ran her own home daycare. When asked what she likes best about working with young children, she replied, “Seeing their smiling faces and watching them have fun. They are all special in their own way.” She enjoys preparing projects and knowing the children are learning while having fun! In her free time, Sharyn enjoys spoiling her grandchildren; Andrew, Jayla, Daniel, Samantha, and Jeremy!</p>
             <hr id="clear" />
-        </div>        
+        </div>
+
+        <div class="teacher">
+            <div id="teacher-picture">
+                <img src="images/staff/erinn_m.jpg" />
+                <span>Erinn Makary</span>
+            </div>
+            <p id="teacher-bio">Erinn holds a degree in Early Childhood Education from Mount Wachusett Community College. She is Lead Infant/Toddler and Preschool Teacher qualified. Erinn has been working with young children for fifteen years. She loves watching them learn and grow. She enjoys arriving to work in the morning to see their smiling faces! In her free time, Erinn is an advisor to a Venture Crew in Littleton and she also works with a Crew in Acton (Outdoor Adventuring.) Erinn has volunteered many hours with organizations similar to Girl Scouts/Boy Scouts that improve the lives of young adults. She loves reading books and going camping!</p>
+            <hr id="clear" />
+        </div>
+
 
 
     </div>

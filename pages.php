@@ -29,30 +29,22 @@
 
             <div class="teacher">
                 <div id="teacher-picture">
-                    <img src="images/staff/danielle_a.jpg" />
-                    <span>Danielle Aucoin</span>
-                </div>
-                <p id="teacher-bio">Hello, my name is Danielle Aucoin.  I am a DEEC Preschool Certified Teacher and I am thrilled to join the 3’s classroom at Kids-A-Lot. I have a B.A. in Theatre Arts from Plymouth State University with an emphasis in Musical Theatre.   While I am extremely passionate about theatre, I am also passionate about working with children, which has led me to Kids-A-Lot where I can blend my two passions together.  At the preschool age children naturally play make believe and create imaginative stories.  They are at the perfect age to explore the world of theatre.   I am excited to teach the children self-expression, teamwork, and following directions, among many other things!                </p>
-                <hr id="clear" />
-            </div>
-
-            <div class="teacher">
-                <div id="teacher-picture">
-                    <img src="images/staff/erinn_m.jpg" />
-                    <span>Erinn Makary</span>
-                </div>
-                <p id="teacher-bio">Erinn holds a degree in Early Childhood Education from Mount Wachusett Community College. She is Lead Infant/Toddler and Preschool Teacher qualified. Erinn has been working with young children for fifteen years. She loves watching them learn and grow. She enjoys arriving to work in the morning to see their smiling faces! In her free time, Erinn is an advisor to a Venture Crew in Littleton and she also works with a Crew in Acton (Outdoor Adventuring.) Erinn has volunteered many hours with organizations similar to Girl Scouts/Boy Scouts that improve the lives of young adults. She loves reading books and going camping!</p>
-                <hr id="clear" />
-            </div>
-
-            <div class="teacher">
-                <div id="teacher-picture">
                     <img src="images/staff/marcia_w.jpg" />
                     <span>Marcia Weiner</span>
                 </div>
                 <p id="teacher-bio">Hello, my name is Marcia Weiner. My work career began with working full-time in the corporate world in the Software and Networking field. After my daughter came along (now 13) I decided to look for work that would allow me to be home for my daughter when needed. I used my position within Nashoba Valley Technical High School to open up a passion for working with students and their families. I feel deeply rewarded each day I get to work with children. I started working for Kids-A-Lot in October 2013 as part-time teaching assistant. In the summer of 2015 I completed a course in Child Growth and Development and received my Teaching Certificate. I am now quite happy to be part of the Preschool 3’s room on a regular part-time basis. My drive and motivation amongst the corporate world as well as my personal experiences of raising my own daughter allow me to be a well-rounded educator.</p>
                 <hr id="clear" />
             </div>
+
+            <div class="teacher">
+                <div id="teacher-picture">
+                    <img src="images/staff/rebekah_p.jpg" />
+                    <span>Rebekah Parkman</span>
+                </div>
+                <p id="teacher-bio">My name is Rebekah Parkman. I received my college degree at Atlantic Union College in Early Childhood Education with a minor in Psychology. I have been a Behavior Therapist and Consultant for many families. In addition to in-home support counseling, I also taught preschool, after school and summer programs for all ages. I am a single mom of two wonderful and talented girls, ages 11 and 16. I love working with young children beacause of the funniest words and statements they make. I like seeing the academic, emotional, and social growth that each child goes through, and knowing that I had a small part in it. I believe that each child learns through play and observing one another. I very much enjoy learning the different cultures, values, and beliefs that each family holds. In my free time I like to watch my kids play sports, play darts, and color madalas. I love photography and art, and I am a big sports fan. I look forward to working with the children, parents, and staff and I am happy to become part of the family here at Kids-A-Lot.</p>
+                <hr id="clear" />
+            </div>
+
 
         </div>
 

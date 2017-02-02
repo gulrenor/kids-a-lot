@@ -30,10 +30,10 @@
 
             <div class="teacher">
                 <div id="teacher-picture">
-                    <img src="images/staff/paul_n.jpg" />
-                    <span>Paul Nichols</span>
+                    <img src="images/staff/caroline_a_2.jpg" />
+                    <span>Caroline Atkinson</span>
                 </div>
-                <p id="teacher-bio">Hello! My name is Paul Nichols and I am one of the Lead Teachers in the T-4’s classroom this school year! I was born and raised in Belmont, MA and recently graduated from Endicott College with a Bachelor’s degree in Elementary Education. I am Massachusetts Teacher licensed from 1st-6th grade and hold a special education license for Pre-K to 8 as well. I am currently working on my Master Degree in Education. I learned that I loved working with children when I was 14 yrs. old when I started coaching basketball and baseball teams in my hometown. One of my favorite things about working with children is seeing them apply a skill they learned about in the classroom to a new real world setting. Other than teaching children, I like to play all pick-up sports, go to the gym, read, travel, and spend time with family and friends. Ultimately, I love working with all different age groups, and from this experience, I hope to give your child a fun, exciting, and eager experience into the world of education.</p>
+                <p id="teacher-bio">Caroline has been working with children for 5 years. Caroline is Infant/Toddler/Preschool DEEC Certified. Caroline is currently working on her degree in Early Childhood Education. What she loves most about working with young children is making them laugh and teaching them new things everyday. In her spare time, Caroline likes to run, dance, paint, bake, travel, and spend time with her friends.</p>
                 <hr id="clear" />
             </div>
 

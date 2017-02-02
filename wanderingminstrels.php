@@ -20,9 +20,6 @@
 
         <div class="teachers-container">
             <h2>Teachers</h2>
-            <!--
-
-        -->
 
             <div class="teacher">
                 <div id="teacher-picture">
@@ -35,21 +32,23 @@
 
             <div class="teacher">
                 <div id="teacher-picture">
-                    <img src="images/staff/emily_m.jpg" />
-                    <span>Emily Murphy</span>
+                    <img src="images/staff/shanna_a.jpg" />
+                    <span>Shanna Ames</span>
                 </div>
-                <p id="teacher-bio">My name is Emily Murphy. I am a recent graduate from Keene State College and hold a degree in Psychology. I started working with children as early as 11 yrs. old when I was a mother’s helper and continued to work with children through my high school and college years. I began my employment at Kids-A-Lot in 2010 during my college breaks and in the summer months. I was very happy to accept a full-time position at KAL in the Young Toddler room in September of 2014. I believe the saying “it takes a village” is truer than you think. Every day that I gain more trust with a child and their family makes me feel like I am an extension of their family. I love watching them grow and hearing them giggle. I feel lucky to be a part of their development and feel good about being a comforter and a nurturer when needed.</p>
+                <p id="teacher-bio">My name is Shanna Ames. I recently graduated from UMass Dartmouth in May of 2016 with a bachelor's degree in Psychology. My love for working with young children sparked when I was 16 as a camp counselor over summers in high school in 2009. Since then, I began to pursue my interest in understanding child development and have been expanding on my experience in working with children as well as adolescents throughout college as a therapeutic counselor. I am now thrilled to accept a full time position as a Young Toddler teacher at Kids-A-Lot. My goal is to create ways for your children to expand their growth of developmental, social, and cognitive skills in age appropriate, fun, and creative ways!</p>
                 <hr id="clear" />
             </div>
 
             <div class="teacher">
                 <div id="teacher-picture">
-                    <img src="images/staff/jackie_b.jpg" />
-                    <span>Jackie Burbine</span>
+                    <img src="images/staff/aneta_s.jpg" />
+                    <span>Aneta Slone</span>
                 </div>
-                <p id="teacher-bio">My name is Jackie Burbine. I am so excited to be part of the Young Toddler teaching team at Kids-A-Lot! Throughout high school and college I have worked in programs with children of all ages and during that time I became particularly interested in Toddler Development. I graduated in 2012 from Westfield State University with a Bachelor’s Degree in Special Education. I love the field of teaching and I am most drawn to working with young children due to their openness to explore the world around them. Toddlers present a welcome challenge as they are becoming independent in their skills and play but also require much love and support while reaching their milestones. In my time away from Kids-A-Lot I am attending a class called “Floor Time” and learning methods to teach young children how to share. I also enjoy coaching the Cheerleading team at Ayer-Shirley High School!</p>
+                <p id="teacher-bio">Hello, I started working within Kids-A-Lot in the beginning of September 2016. In 2015, I obtained a Certificate in Child Growth and Development Course from North Shore Community Center. For the last several years I've worked as a Gymnastics Instructor at the YMCA of the North Shore in Marblehead, MA. At Kids-A-Lot I enjoy implementing movement and overall agility through the use of our daily programming. Through my experience working with young children, I have realized how rewarding and fulfilling it feels to work in the Early Educaton field. To be able to be part of children's developmental milestones they overcome on a daily basis feels wonderful. I truly enjoy children's happy attitude, their unending curiosity and receiving random hugs and plenty of smiles throughout the day. I believe it is important to have an environment in which the children can feel motivated and learn how to face new challenges and feel proud of themselves. I found a great joy and happiness watching children of all skill levels reach their goals and overcome their obstacles. In my free time, I love spending time with my two daughters, Izabela and Maja. We like to be active and go roller-skating and taking walks in the woods. I also love reading, dancing, and travelling to new places.</p>
                 <hr id="clear" />
             </div>
+        </div>
+
 
         </div>
 

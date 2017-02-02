@@ -30,13 +30,14 @@
 
         <div class="teacher">
             <div id="teacher-picture">
-                <img src="images/staff/melissa_m.jpg" />
-                <span>Melissa<br /> McEntire-Baylis</span>
+                <img src="images/staff/alysa.jpg" />
+                <span>Ms. Alysa</span>
             </div>
-            <p id="teacher-bio">Melissa has been working with children for 17 years. She is a DEEC certified lead preschool teacher, and holds a BS in Elementary Education and Psychology from Worcester State University. What she loves most about young children is that they have a brilliant, honest, refreshing, and insatiable eagerness to learn. In her spare time, Melissa likes doing yoga, hiking, reading, and spending time with her daughter Megan.
+            <p id="teacher-bio">Ms. Alysa loves working with small children. She appreciates their perspective on life and the way they learn. She believes every child is unique and has something to contribute to the group as a whole. She treats each child as an inventor and a teacher. She believes adults can learn from children as much as they can learn from us. She loves teaching outside when possible while cultivatingan interest in independent discovery. She has had experience in diverse settings since she began working with children in 1996. She recieved her Associate's Degree from Post University in Connecticut in January of 2017.
             </p>
             <hr id="clear" />
         </div>
+
     </div>
 
     <hr id="gutter" />
