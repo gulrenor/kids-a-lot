@@ -24,7 +24,7 @@
   <h2>Administrative Staff</h2>
 
   <div class="teacher">
-    <div id="teacher-picture">
+    <div class="teacher-picture">
         <img src="images/staff/jennifer_k.jpg" />
         <span>Jennifer Kydd</span>
     </div>
@@ -35,7 +35,7 @@
   </div>
 
   <div class="teacher">
-    <div id="teacher-picture">
+    <div class="teacher-picture">
       <img src="images/staff/sheila_c.jpg" />
     </div>
     <p>Sheila joined the Administration Team at Kids-A-Lot in the summer of 2016. She has more than 25 years of experience working with children, and has earned her Early Childhood Education degree at Aquinas College in Newton. She is both Lead Teacher and Director II qualified.</p>
@@ -44,14 +44,14 @@
   </div>
 
   <div class="teacher">
-    <div id="teacher-picture">
+    <div class="teacher-picture">
         <img src="images/staff/pam_s.jpg" />
         <span>Pam Stander</span>
     </div>
     <p>Pam has been a Bookkeeper and Small Business Office Manager for over 20 years. Her favorite job has been and still is working for Kids-A-Lot (16 years in 2016.) She loves when the children stop by the office to brighten up her day. The environment at Kids-A-Lot is second to none! Pam enjoys walking, striper fishing with her husband Dave, reading, and entertaining guests. She also enjoys trips to the Outer Banks in North Carolina with her family. Pam is the mother of two grown children and in 2012 became a proud grandmother! (Biggest striper Pam caught: 42”)</p>
   </div>
 
-  <hr id="clear" />
+  <hr class="clear" />
 </div>
 
 <?php include 'footer.html'; ?>

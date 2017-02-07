@@ -1,11 +1,11 @@
 <?php include 'header.php'; ?>
 
-<div id="sidebar" class="right">
+<div class="sidebar right">
     <?php include 'rates_extra.php'; ?>
 </div>
 
 
-<div id="programs" class="left">
+<div class="programs left">
     <div class="circle circle-program">
         <p>4</p>
         <p>years</p>
@@ -19,23 +19,23 @@
     <div class="teachers-container">
         <h2>Teachers</h2>
         <div class="teacher">
-            <div id="teacher-picture">
+            <div class="teacher-picture">
                 <img src="images/staff/linda_c.jpg" />
                 <span>Linda Colaluca</span>
             </div>
-            <p id="teacher-bio">Linda has worked in the field of Early Childhood Education for over twenty-six years! She is a DEEC Certified Preschool Teacher as well as Director II qualified. Linda loves the spontaneity of working with children. “Young children have so much energy and enthusiasm, it’s contagious!” In her spare time she enjoys antiquing, going to the beach, cooking, gardening, reading, politics, and spending time with her five year old granddaughter, Isabella (Izzy,) and her two wonderful children, Amy and Patrick.
+            <p class="teacher-bio">Linda has worked in the field of Early Childhood Education for over twenty-six years! She is a DEEC Certified Preschool Teacher as well as Director II qualified. Linda loves the spontaneity of working with children. “Young children have so much energy and enthusiasm, it’s contagious!” In her spare time she enjoys antiquing, going to the beach, cooking, gardening, reading, politics, and spending time with her five year old granddaughter, Isabella (Izzy,) and her two wonderful children, Amy and Patrick.
             </p>
-            <hr id="clear" />
+            <hr class="clear" />
         </div>
 
         <div class="teacher">
-            <div id="teacher-picture">
+            <div class="teacher-picture">
                 <img src="images/staff/alysa_k.jpg" />
                 <span>Ms. Alysa</span>
             </div>
-            <p id="teacher-bio">Ms. Alysa loves working with small children. She appreciates their perspective on life and the way they learn. She believes every child is unique and has something to contribute to the group as a whole. She treats each child as an inventor and a teacher. She believes adults can learn from children as much as they can learn from us. She loves teaching outside when possible while cultivatingan interest in independent discovery. She has had experience in diverse settings since she began working with children in 1996. She recieved her Associate's Degree from Post University in Connecticut in January of 2017.
+            <p class="teacher-bio">Ms. Alysa loves working with small children. She appreciates their perspective on life and the way they learn. She believes every child is unique and has something to contribute to the group as a whole. She treats each child as an inventor and a teacher. She believes adults can learn from children as much as they can learn from us. She loves teaching outside when possible while cultivatingan interest in independent discovery. She has had experience in diverse settings since she began working with children in 1996. She recieved her Associate's Degree from Post University in Connecticut in January of 2017.
             </p>
-            <hr id="clear" />
+            <hr class="clear" />
         </div>
 
     </div>
@@ -53,6 +53,6 @@
         </ul>
 </div>
 
-<hr id="clear" />
+<hr class="clear" />
 
 <?php include 'footer.html'; ?>
