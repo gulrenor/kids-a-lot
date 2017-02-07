@@ -252,23 +252,24 @@ hr {
   margin-right: 2em;
   padding-bottom: 4em; }
 
-.header {
+header {
   background-image: url("../images/header-new-bg.png");
   background-repeat: repeat-x;
   position: relative;
   text-align: center; }
-  .header > div {
-    margin: 0 auto;
-    position: relative;
-    width: 960px; }
-    .header > div img:nth-of-type(n+2) {
-      border: 0;
-      position: absolute;
-      top: 50px; }
-    .header > div img:nth-of-type(2) {
-      left: 0; }
-    .header > div img:nth-of-type(3) {
-      right: 0; }
+
+.inner-header {
+  margin: 0 auto;
+  position: relative;
+  max-width: 960px; }
+  .inner-header img:nth-of-type(n+2) {
+    border: 0;
+    position: absolute;
+    top: 50px; }
+  .inner-header img:nth-of-type(2) {
+    left: 0; }
+  .inner-header img:nth-of-type(3) {
+    right: 0; }
 
 .footer {
   background-image: url("../images/footer_bg.png");
@@ -525,9 +526,9 @@ table.sidebar-table {
     width: 7rem; }
   .container {
     width: 100%; }
-  .header {
+  header {
     background-size: cover; }
-  .header div {
+  .inner-header {
     height: auto;
     width: 100%; } }
 

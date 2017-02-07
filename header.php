@@ -9,14 +9,14 @@
 </head>
 
 <body>
-    <div class="header">
-        <div>
+    <header>
+        <div class="inner-header">
             <img src="images/header-new.png" />
             <img src="images/horse_left.gif" />
             <img src="images/horse_right.gif" />
         </div>
 
-    </div>
+    </header>
 
     <div class="container">
 
