@@ -36,7 +36,7 @@
 
   <div class="teacher">
     <div id="teacher-picture">
-      <img src="images/staff/blank.png" />
+      <img src="images/staff/sheila_c.jpg" />
     </div>
     <p>Sheila joined the Administration Team at Kids-A-Lot in the summer of 2016. She has more than 25 years of experience working with children, and has earned her Early Childhood Education degree at Aquinas College in Newton. She is both Lead Teacher and Director II qualified.</p>
     <p>Shiela enjoys coming into the classrooms and establishing a rapport with all the children on a daily basis. She looks forward to building bonds, sharing conversations, and providing hugs to all the children within the program. She finds their appetite for learning new things to be so rewarding; and values the teaching staff tremendously for providing these rich learning opportunities. She most enjoys their willingness for adventure and watching their ingenuity while at play.</p> 

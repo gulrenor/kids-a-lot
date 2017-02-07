@@ -30,7 +30,7 @@
 
         <div class="teacher">
             <div id="teacher-picture">
-                <img src="images/staff/alysa.jpg" />
+                <img src="images/staff/alysa_k.jpg" />
                 <span>Ms. Alysa</span>
             </div>
             <p id="teacher-bio">Ms. Alysa loves working with small children. She appreciates their perspective on life and the way they learn. She believes every child is unique and has something to contribute to the group as a whole. She treats each child as an inventor and a teacher. She believes adults can learn from children as much as they can learn from us. She loves teaching outside when possible while cultivatingan interest in independent discovery. She has had experience in diverse settings since she began working with children in 1996. She recieved her Associate's Degree from Post University in Connecticut in January of 2017.

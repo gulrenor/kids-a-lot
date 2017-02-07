@@ -32,7 +32,7 @@
 
             <div class="teacher">
                 <div id="teacher-picture">
-                    <img src="images/staff/shanna_a.jpg" />
+                    <img src="images/staff/blank.png" />
                     <span>Shanna Ames</span>
                 </div>
                 <p id="teacher-bio">My name is Shanna Ames. I recently graduated from UMass Dartmouth in May of 2016 with a bachelor's degree in Psychology. My love for working with young children sparked when I was 16 as a camp counselor over summers in high school in 2009. Since then, I began to pursue my interest in understanding child development and have been expanding on my experience in working with children as well as adolescents throughout college as a therapeutic counselor. I am now thrilled to accept a full time position as a Young Toddler teacher at Kids-A-Lot. My goal is to create ways for your children to expand their growth of developmental, social, and cognitive skills in age appropriate, fun, and creative ways!</p>

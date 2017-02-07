@@ -4,7 +4,6 @@
         <?php include 'rates_extra.php'; ?>
     </div>
 
-
     <div id="programs" class="left">
         <div class="circle circle-program">
             <p>3+</p>
@@ -12,10 +11,6 @@
         </div>
         <h1>Wee People</h1>
         <img class="mascot" src="images/programs-weepeople-large.png" />
-
-
-
-
         <p>Our babies or "Wee People" are our youngest group of children at Kids-A-Lot. In order to be eligible for this group, babies have to be at least three months of age.</p>
         <p>We feel that this program is unique for its warmth and homelike atmosphere. Keeping the number of children to seven, with two full-time and one part-time teacher for support, allows us to provide individual attention and quality loving care for this tender age. This program is provided by experienced Early Childhood Educators.</p>
 

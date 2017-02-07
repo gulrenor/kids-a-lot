@@ -38,7 +38,7 @@
 
             <div class="teacher">
                 <div id="teacher-picture">
-                    <img src="images/staff/rebekah_p.jpg" />
+                    <img src="images/staff/blank.png" />
                     <span>Rebekah Parkman</span>
                 </div>
                 <p id="teacher-bio">My name is Rebekah Parkman. I received my college degree at Atlantic Union College in Early Childhood Education with a minor in Psychology. I have been a Behavior Therapist and Consultant for many families. In addition to in-home support counseling, I also taught preschool, after school and summer programs for all ages. I am a single mom of two wonderful and talented girls, ages 11 and 16. I love working with young children beacause of the funniest words and statements they make. I like seeing the academic, emotional, and social growth that each child goes through, and knowing that I had a small part in it. I believe that each child learns through play and observing one another. I very much enjoy learning the different cultures, values, and beliefs that each family holds. In my free time I like to watch my kids play sports, play darts, and color madalas. I love photography and art, and I am a big sports fan. I look forward to working with the children, parents, and staff and I am happy to become part of the family here at Kids-A-Lot.</p>
