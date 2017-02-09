@@ -1,5 +1,26 @@
 <?php include 'header.php'; ?>
 
+<section class="programs2">
+  <div class="program">
+    <div class="program-title clearfix">
+      <h2>Wee People</h2> 
+      <div class="circle circle-program">
+        <p>
+          3+
+        </p>
+        <p>
+          months
+        </p>
+      </div>
+    </div>
+    <img class="mascot" src="images/programs-weepeople.png" />
+    <p>
+      Our babies or “Wee People” are our youngest group of children at Kids-A-Lot. In order to be eligible for this group, babies have to be at least three months of age.
+    </p>
+  </div>
+</section>
+
+
 <div class="programs">
 
     <a href="weepeople.php">
