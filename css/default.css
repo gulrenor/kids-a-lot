@@ -76,7 +76,7 @@ footer {
 .nav-menu .yellow span {
   color: #362a24; }
 
-.programs .circle {
+.circle {
   background-color: #362a24;
   color: #f5efd7; }
 
@@ -96,7 +96,10 @@ footer {
   background-color: #362a24;
   color: #afa287; }
 
-.programs-3col:hover {
+.program {
+  transition: color .25s ease-out, background-color .25s ease-out; }
+
+.program:hover {
   background-color: #afa287;
   color: #362a24; }
 
@@ -164,12 +167,6 @@ p {
   font-size: 1.6rem;
   line-height: 1.8rem; }
 
-.circle {
-  font-size: 1.6rem; }
-
-.programs .circle p:nth-child(2) {
-  font-size: .5em; }
-
 .extras .circle {
   font-family: "Rancho", fantasy, cursive; }
   .extras .circle p:nth-child(1) {
@@ -190,6 +187,9 @@ p {
 .newsletter-signature {
   font-family: "Rancho", fantasy, cursive;
   font-size: 2em; }
+
+.circle p {
+  font-size: .9rem; }
 
 ::-webkit-scrollbar {
   width: 12px; }
@@ -360,25 +360,6 @@ footer {
   position: absolute;
   right: 0;
   top: 0; }
-
-.circle {
-  border-radius: 3.4rem;
-  float: right;
-  height: 3.4em;
-  text-align: center;
-  width: 3.4em;
-  z-index: 0; }
-  .circle p {
-    margin: 0; }
-
-.programs .circle {
-  line-height: 1.2rem;
-  margin-right: .25em;
-  padding-top: 1.7rem; }
-
-.circle-program {
-  position: absolute;
-  right: 0; }
 
 .extra {
   margin-left: 10px;
@@ -566,8 +547,12 @@ table.sidebar-table {
       flex-wrap: wrap; }
 
 .program {
-  width: 30%;
-  border: 1px solid black; }
+  padding: 1rem;
+  width: 33%; }
+  .program:hover {
+    background-color: #b0a388; }
+  .program p {
+    margin: 0; }
 
 .program-title {
   display: -ms-flexbox;
@@ -575,17 +560,28 @@ table.sidebar-table {
   -ms-flex-direction: row;
       flex-direction: row;
   -ms-flex-wrap: nowrap;
-      flex-wrap: nowrap; }
+      flex-wrap: nowrap;
+  -ms-flex-pack: justify;
+      justify-content: space-between;
+  position: relative; }
   .program-title h2 {
-    width: auto; }
+    margin: 0;
+    width: 100%; }
 
 .circle {
-  border-radius: 3.4rem;
-  height: 3.4em;
+  border-radius: 5rem;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  -ms-flex-pack: center;
+      justify-content: center;
+  height: 5em;
   text-align: center;
-  width: 3.4em;
+  min-width: 5em;
   z-index: 0; }
   .circle p {
+    line-height: 1rem;
     margin: 0; }
 
 .clearfix:after {

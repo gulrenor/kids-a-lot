@@ -1,16 +1,38 @@
 <?php include 'header.php'; ?>
 
 <section class="programs2">
+  <a class="program" href="weepeople.php">
+    <div class="program-title clearfix">
+      <h2>Wee People</h2> 
+      <div class="circle circle-program">
+        <h2>3+</h2>
+        <p>months</p>
+      </div>
+    </div>
+    <img class="mascot" src="images/programs-weepeople.png" />
+    <p>
+      Our babies or “Wee People” are our youngest group of children at Kids-A-Lot. In order to be eligible for this group, babies have to be at least three months of age.
+    </p>
+  </a>
+  <div class="program">
+    <div class="program-title clearfix">
+      <h2>Wandering Minstrels</h2> 
+      <div class="circle circle-program">
+        <h2>15&ndash;24</h2>
+        <p>months</p>
+      </div>
+    </div>
+    <img class="mascot" src="images/programs-wanderingminstrel.png" />
+    <p>
+      A step up in development are the ‘Wandering Minstrels” - our young toddlers who are beginning to view their environment from a new perspective&#8230; on their feet!
+    </p>
+  </div>
   <div class="program">
     <div class="program-title clearfix">
       <h2>Wee People</h2> 
       <div class="circle circle-program">
-        <p>
-          3+
-        </p>
-        <p>
-          months
-        </p>
+        <h2>3+</h2>
+        <p>months</p>
       </div>
     </div>
     <img class="mascot" src="images/programs-weepeople.png" />
@@ -19,6 +41,7 @@
     </p>
   </div>
 </section>
+
 
 
 <div class="programs">

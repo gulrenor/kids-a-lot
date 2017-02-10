@@ -48,14 +48,6 @@ p {
   line-height: 1.8rem;
 }
 
-.circle {
-  font-size: 1.6rem;
-}
-
-.programs .circle p:nth-child(2) {
-  font-size: .5em;
-}
-
 .extras .circle {
   font-family: $script-font;
 
@@ -88,4 +80,8 @@ p {
 
 .inline-collapse-menu {
   //font-size: 80%;
+}
+
+.circle p {
+  font-size: .9rem;
 }

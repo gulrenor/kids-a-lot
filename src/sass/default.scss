@@ -211,30 +211,6 @@ footer {
   top: 0;
 }
 
-.circle {
-  border-radius: 3.4rem;
-  float: right;
-  height: 3.4em;
-  text-align: center;
-  width: 3.4em;
-  z-index: 0;
-
-  p {
-    margin: 0;
-  }
-}
-
-.programs .circle {
-  line-height: 1.2rem;
-  margin-right: .25em;
-  padding-top: 1.7rem;
-}
-
-.circle-program {
-  position: absolute;
-  right: 0;
-}
-
 .extra {
   margin-left: 10px;
   padding: 0 .25em;
@@ -469,6 +445,8 @@ table.sidebar-table {
   }
 }
 
+
+// This begins the flexbox rework for the programs section
 .programs2 {
   display: flex;
   flex-direction: row;
@@ -477,28 +455,43 @@ table.sidebar-table {
 }
 
 .program {
-  width: 30%;
-  border: 1px solid black;
+  padding: 1rem;
+  width: 33%;
+  
+  &:hover {
+    background-color: $sidebar-even;
+  }
+  
+  p {
+    margin: 0;
+  }
 }
 
 .program-title {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
+  justify-content: space-between;
+  position: relative;
   
   h2 {
-    width: auto;
+    margin: 0;
+    width: 100%;
   }
 }
 
 .circle {
-  border-radius: 3.4rem;
-  height: 3.4em;
+  border-radius: 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 5em;
   text-align: center;
-  width: 3.4em;
+  min-width: 5em;
   z-index: 0;
 
   p {
+    line-height: 1rem;
     margin: 0;
   }
 }

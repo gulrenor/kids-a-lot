@@ -58,7 +58,7 @@ footer {
   color: $footer-bg;
 }
 
-.programs .circle {
+.circle {
   background-color: $footer-bg;
   color: $programs-light;
 }
@@ -83,7 +83,11 @@ footer {
   color: $body-light;
 }
 
-.programs-3col:hover {
+.program {
+  transition: color .25s ease-out, background-color .25s ease-out;
+}
+
+.program:hover {
   background-color: $body-light;
   color: $footer-bg;
 }
