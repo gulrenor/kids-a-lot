@@ -137,7 +137,7 @@
             <li class="icmClicker">
                 <a>Ear Infection</a>
                 <div class="icmCollapser">
-                    <p>Ear Infection</p>
+                    <p>If diagnosed with an ear infection by your child's pediatrician, they must remain home for 24 hours before returning to school.</p>
                 </div>
             </li>
 

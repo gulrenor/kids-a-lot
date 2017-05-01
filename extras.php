@@ -17,10 +17,9 @@
       <h2>Folk Music</h2>
       <div class="circle red">
         <p>by</p>
-        <p>Nancy<br />Rails</p>
+        <p>Nancy<br />Railsback</p>
       </div>
-      <p class="desc">This year we welcome another musician to the Kids-A-Lot family! Jean loves to sing and play her guitar with children. Her repertoire includes traditional folk silly songs and an occasional original song. Participation is the key to fun for Jean’s programs. Jean learned to play the accordion at age 4 and studied the flute at N.E. Conservatory of Music. Jean has a B.A. in Geology and has sung with the Opera Company of Boston and the Boston Lyric Opera. Jean picked up the guitar in 1987 and learned it was singing to children that she liked best. You can learn more about Jean at <a href="http://www.jeanschwartz.com" target="new">www.jeanschwartz.com</a>
-      </p>
+      <p class="desc">Folk Music with Nancy Railsback</p>
     </div>
 
     <div class="p3col">
@@ -29,7 +28,7 @@
         <p>by</p>
         <p>Eric<br />Frost</p>
       </div>
-      <p class="desc">Each Wednesday afternoon, Karate classes are in session in the gross motor room with Sensei Pat (Patricia) Saunders of <a href="http://www.stowmac.com/" target="new">Karate Do</a> (pronounced &#8220;dough&#8221;) of Stow. The students will learn over the course of classes to count in Japanese and to speak various words specific to the martial art of Uechi-Ryu Karate. Each child will receive a white belt (to be kept at Kids-A-Lot) on which stripes will be attached, representing teamwork, self-discipline, focus, memory, and coordination. Classes are offered to age 4 and up.</p>
+      <p class="desc">Karate with Eric Frost from Stow Martial Arts</p>
     </div>
 
     <hr id="clear" />

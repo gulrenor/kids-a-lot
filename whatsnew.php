@@ -27,6 +27,15 @@
 
     <?php if (isset($_GET[date])) { $newsletter='whatsnew/' . substr($_GET[date], 0, 4) . '/' . $_GET[date] . '.html'; include $newsletter; } else { ?>
 
+    <div>
+      <a href="https://www.facebook.com/Kids-A-Lot-339814946102541/" title="Facebook" target="_blank">
+        <i style="float:right;" class="fa fa-3x fa-fw fa-facebook-official"></i>
+      </a>
+      <h3>
+         Make sure to <a href="https://www.facebook.com/Kids-A-Lot-339814946102541/" title="Facebook" target="_blank">follow us on Facebook</a> for all our up-to-date news and important announcements/reminders.
+      </h3>
+    </div>
+
     <!-- BEGIN CURRENT NEWSLETTER -->
 
     <section id="newsletters">

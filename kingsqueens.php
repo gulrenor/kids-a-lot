@@ -57,15 +57,6 @@
             <p id="teacher-bio">Gervaise has been working with children for 25 years! She has a Masters degree in Education. She spent many years teaching Special Education and Chapter One in the public schools. What Gervaise likes best about working with young children is seeing their faces light up when they discover something! In her spare time she likes to hike, cross country ski, play guitar and mandolin, and work on arts and crafts projects.</p>
             <hr id="clear" />
         </div>
-        
-        <div class="teacher">
-            <div id="teacher-picture">
-                <img src="images/staff/sharyn_b.jpg" />
-                <span>Sharyn Borey</span>
-            </div>
-            <p id="teacher-bio">Sharyn has been working with young children for forty one years. Sharyn is Preschool Teacher DEEC Certified and before working at Kids-A-Lot (twenty four years ago,) Sharyn ran her own home daycare. When asked what she likes best about working with young children, she replied, “Seeing their smiling faces and watching them have fun. They are all special in their own way.” She enjoys preparing projects and knowing the children are learning while having fun! In her free time, Sharyn enjoys spoiling her grandchildren; Andrew, Jayla, Daniel, Samantha, and Jeremy!</p>
-            <hr id="clear" />
-        </div>
 
         <div class="teacher">
             <div id="teacher-picture">
@@ -75,8 +66,6 @@
             <p id="teacher-bio">Erinn holds a degree in Early Childhood Education from Mount Wachusett Community College. She is Lead Infant/Toddler and Preschool Teacher qualified. Erinn has been working with young children for fifteen years. She loves watching them learn and grow. She enjoys arriving to work in the morning to see their smiling faces! In her free time, Erinn is an advisor to a Venture Crew in Littleton and she also works with a Crew in Acton (Outdoor Adventuring.) Erinn has volunteered many hours with organizations similar to Girl Scouts/Boy Scouts that improve the lives of young adults. She loves reading books and going camping!</p>
             <hr id="clear" />
         </div>
-
-
 
     </div>
     <p>We have a limited license for part-time after kindergarten care (3:00-6:00pm) Therefore, we reserve these openings for children that have already been enrolled in our program. Occasionally we have space for additional children.</p>
