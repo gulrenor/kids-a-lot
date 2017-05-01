@@ -1,11 +1,11 @@
 <?php include 'header.php'; ?>
 
-<div class="sidebar right">
+<div id="sidebar" class="right">
   <?php include 'rates_extra.php'; ?>
 </div>
 
 
-<div class="programs left">
+<div id="programs" class="left">
     <div class="circle circle-program">
         <p>5</p>
         <p>years</p>
@@ -41,39 +41,39 @@
     <div class="teachers-container">
         <h2>Teachers</h2>
         <div class="teacher">
-            <div class="teacher-picture">
+            <div id="teacher-picture">
                 <img src="images/staff/laura_c_2.jpg" />
                 <span>Laura Correa</span>
             </div>
-            <p class="teacher-bio">Laura has been working with children for 12 years! Laura received a Bachelors degree in Psychology from Worcester State College. She is DEEC Lead Preschool Teacher Certified. What Laura likes best about working with young children is teaching them a new concept and seeing them apply it later. Laura says young children’s imagination is outstanding. Hearing their stories and seeing their pictures is something she loves. Laura’s hobbies/interests are playing monster trucks and “jungle of dinosaurs” with her two boys. She enjoys playing soccer, watching horror movies, and cheering on Boston sports teams. Laura also enjoys collecting snowmen to decorate her home for the winter.</p>
-            <hr class="clear" />
+            <p id="teacher-bio">Laura has been working with children for 12 years! Laura received a Bachelors degree in Psychology from Worcester State College. She is DEEC Lead Preschool Teacher Certified. What Laura likes best about working with young children is teaching them a new concept and seeing them apply it later. Laura says young children’s imagination is outstanding. Hearing their stories and seeing their pictures is something she loves. Laura’s hobbies/interests are playing monster trucks and “jungle of dinosaurs” with her two boys. She enjoys playing soccer, watching horror movies, and cheering on Boston sports teams. Laura also enjoys collecting snowmen to decorate her home for the winter.</p>
+            <hr id="clear" />
         </div>
 
         <div class="teacher">
-            <div class="teacher-picture">
+            <div id="teacher-picture">
                 <img src="images/staff/gervaise_b_2.jpg" />
                 <span>Gervaise Brown</span>
             </div>
-            <p class="teacher-bio">Gervaise has been working with children for 25 years! She has a Masters degree in Education. She spent many years teaching Special Education and Chapter One in the public schools. What Gervaise likes best about working with young children is seeing their faces light up when they discover something! In her spare time she likes to hike, cross country ski, play guitar and mandolin, and work on arts and crafts projects.</p>
-            <hr class="clear" />
+            <p id="teacher-bio">Gervaise has been working with children for 25 years! She has a Masters degree in Education. She spent many years teaching Special Education and Chapter One in the public schools. What Gervaise likes best about working with young children is seeing their faces light up when they discover something! In her spare time she likes to hike, cross country ski, play guitar and mandolin, and work on arts and crafts projects.</p>
+            <hr id="clear" />
         </div>
         
         <div class="teacher">
-            <div class="teacher-picture">
+            <div id="teacher-picture">
                 <img src="images/staff/sharyn_b.jpg" />
                 <span>Sharyn Borey</span>
             </div>
-            <p class="teacher-bio">Sharyn has been working with young children for forty one years. Sharyn is Preschool Teacher DEEC Certified and before working at Kids-A-Lot (twenty four years ago,) Sharyn ran her own home daycare. When asked what she likes best about working with young children, she replied, “Seeing their smiling faces and watching them have fun. They are all special in their own way.” She enjoys preparing projects and knowing the children are learning while having fun! In her free time, Sharyn enjoys spoiling her grandchildren; Andrew, Jayla, Daniel, Samantha, and Jeremy!</p>
-            <hr class="clear" />
+            <p id="teacher-bio">Sharyn has been working with young children for forty one years. Sharyn is Preschool Teacher DEEC Certified and before working at Kids-A-Lot (twenty four years ago,) Sharyn ran her own home daycare. When asked what she likes best about working with young children, she replied, “Seeing their smiling faces and watching them have fun. They are all special in their own way.” She enjoys preparing projects and knowing the children are learning while having fun! In her free time, Sharyn enjoys spoiling her grandchildren; Andrew, Jayla, Daniel, Samantha, and Jeremy!</p>
+            <hr id="clear" />
         </div>
 
         <div class="teacher">
-            <div class="teacher-picture">
+            <div id="teacher-picture">
                 <img src="images/staff/erinn_m.jpg" />
                 <span>Erinn Makary</span>
             </div>
-            <p class="teacher-bio">Erinn holds a degree in Early Childhood Education from Mount Wachusett Community College. She is Lead Infant/Toddler and Preschool Teacher qualified. Erinn has been working with young children for fifteen years. She loves watching them learn and grow. She enjoys arriving to work in the morning to see their smiling faces! In her free time, Erinn is an advisor to a Venture Crew in Littleton and she also works with a Crew in Acton (Outdoor Adventuring.) Erinn has volunteered many hours with organizations similar to Girl Scouts/Boy Scouts that improve the lives of young adults. She loves reading books and going camping!</p>
-            <hr class="clear" />
+            <p id="teacher-bio">Erinn holds a degree in Early Childhood Education from Mount Wachusett Community College. She is Lead Infant/Toddler and Preschool Teacher qualified. Erinn has been working with young children for fifteen years. She loves watching them learn and grow. She enjoys arriving to work in the morning to see their smiling faces! In her free time, Erinn is an advisor to a Venture Crew in Littleton and she also works with a Crew in Acton (Outdoor Adventuring.) Erinn has volunteered many hours with organizations similar to Girl Scouts/Boy Scouts that improve the lives of young adults. She loves reading books and going camping!</p>
+            <hr id="clear" />
         </div>
 
 
@@ -91,6 +91,6 @@
 
 </div>
 
-<hr class="clear" />
+<hr id="clear" />
 
 <?php include 'footer.html'; ?>

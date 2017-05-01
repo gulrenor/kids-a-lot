@@ -203,26 +203,26 @@ hr {
 #nav {
     position: relative;
 }
-.nav-menu {
+#nav-menu {
     font-family: 'Rancho', fantasy, cursive;
     font-size: 1.6rem;
     text-align: center;
     line-height: 1.8rem;
     top: -100px;
 }
-.nav-menu a {
+#nav-menu a {
     top: -20px;
     display: inline-block;
     position: relative;
     width: 16%;
 }
-.nav-menu a:before {
+#nav-menu a:before {
     content: "";
     display: block;
     padding-top: 122%;
     /*14:17 ratio*/
 }
-.nav-menu li {
+#nav-menu li {
     position: absolute;
     top: 0;
     left: 0;
@@ -235,7 +235,7 @@ hr {
     background-repeat: no-repeat;
     background-size: cover;
 }
-.nav-menu span {
+#nav-menu span {
     display: block;
     position: relative;
     margin-left: 15%;
@@ -244,7 +244,7 @@ hr {
     /*fallback*/
     color: rgb(255, 255, 255);
 }
-.nav-menu .yellow span {
+#nav-menu .yellow span {
     color: #362A24;
     /*fallback*/
     color: rgb(54, 42, 36);
@@ -318,16 +318,16 @@ hr {
 #programs .circle p:nth-child(2) {
     font-size: 0.5em;
 }
-.extras .circle {
+#extras .circle {
     font-family: 'Rancho', fantasy, cursive;
 }
-.extras .circle p:nth-child(1) {
+#extras .circle p:nth-child(1) {
     font-size: 0.5em;
 }
-.extras .circle p:nth-child(2) {
+#extras .circle p:nth-child(2) {
     line-height: 0.9em;
 }
-.extras .yellow {
+#extras .yellow {
     background-color: #F6EE6B;
     /*fallback*/
     background-color: rgb(246, 238, 107);
@@ -335,7 +335,7 @@ hr {
     /*fallback*/
     color: rgb(54, 42, 36);
 }
-.extras .purple {
+#extras .purple {
     background-color: #844C9D;
     /*fallback*/
     background-color: rgb(132, 76, 157);
@@ -343,7 +343,7 @@ hr {
     /*fallback*/
     color: rgb(255, 255, 255);
 }
-.extras .red {
+#extras .red {
     background-color: #EC1F23;
     color: #FFF;
 }
@@ -587,7 +587,7 @@ width: 5px;
     padding: 1em;
     font-size: 80%;
 }
-.icm-collapser {
+.icmCollapser {
     position: absolute;
     top: 0;
     right: 0;
@@ -596,16 +596,16 @@ width: 5px;
     background-color: #D6CDA8;
     overflow-y: auto;
 }
-.icm-collapser {
+.icmCollapser {
     float: right;
 }
-.icm-collapser p {
+.icmCollapser p {
     padding: 1em;
 }
-.icm-clicker a:hover {
+.icmClicker a:hover {
     text-decoration: underline;
 }
-.icm-nav {
+.icmNav {
     width: 45%;
 }
 .formatted {

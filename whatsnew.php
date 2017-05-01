@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<div class="sidebar right">
+<div id="sidebar" class="right">
     <h2>Past Newsletters</h2>
     <ul>
         <li><a class="newsletterToggle" href="#201505">May, 2015</a>
@@ -37,7 +37,7 @@
 
             <h2>Special Events and Reminders:</h2>
 
-            <img class="newsletter-image" style="float:right;" src="images/whatsnew/20150501.jpg" alt="May 2015" />
+            <img id="newsletter-image" style="float:right;" src="images/whatsnew/20150501.jpg" alt="May 2015" />
 
             <ul class="bullet">
                 <li>May Parent Teacher Conferences per classroom (Check with your teacher for designated dates)</li>
@@ -70,7 +70,7 @@
 
             <em>Warmly,</em>
 
-            <p class="newsletter-signature">Maryann , Jennifer, Pam &amp; Staff</p>
+            <p id="newsletter-signature">Maryann , Jennifer, Pam &amp; Staff</p>
 
         </div>
 
@@ -79,7 +79,7 @@
 
             <p>Welcome Spring! April 21st thru April 25th will be vacation week for the public schools. Kids-A-Lot will be closed on Monday, April 20th for Patriots Day; we will be open for the remainder of the week. We are planning a variety of different activities throughout the week. We are also working on reorganizing the garden in the back of the Preschool Building if anyone is interested in helping. Last year our gardens became a community trading ground with help from parents that brought vegetables from their home garden to share with others as they were left for the taking!</p>
 
-            <img class="newsletter-image" style="float:right;" src="images/whatsnew/20150401.png" alt="April 2015" />
+            <img id="newsletter-image" style="float:right;" src="images/whatsnew/20150401.png" alt="April 2015" />
 
             <p>Our Professional Development Day was held on March 30th and was a huge success for all of our staff. Our staff was able to re-organize their classrooms as well as participate in workshop presentations related to Mindfulness and Nutrition &amp; Center Issues. After the presentations, our staff were rejuvenated, energized, and are ready to finish off the year! Parent/teacher conferences will be sneaking up on us in May! Please ask your child’s teacher for dates for conference times as time gets closer. </p>
 
@@ -87,18 +87,18 @@
 
             <h2>Hopping good times!</h2>
 
-            <img class="newsletter-image" style="float:left; width:10%" src="images/whatsnew/20150402.jpg" alt="April 2015" />
+            <img id="newsletter-image" style="float:left; width:10%" src="images/whatsnew/20150402.jpg" alt="April 2015" />
 
             <p>The Easter Bunny was here at the Center to visit on Thursday, April 3rd at 10 am. He was a lively bunny who enjoyed wiggling his ears and playing peek-a-boo. The children were excited &amp; used their “best manners” thanking the bunny for visiting. </p>
 
             <p>Our summer plans are well on there way and we have fun filled weeks planned. Please look for the weekly themes and optional summer programs such as swimming, hip hop, and karate. Some of the highlights include weekly field trips and in-house performances, and summer music program/ camp sing-a-longs. Please remember that these specials have limited space and certain age limitations and other restrictions that may apply.</p>
 
-            <img class="newsletter-image" style="float:right; width: 20% " src="images/whatsnew/20150403.png" alt="April 2015" />
+            <img id="newsletter-image" style="float:right; width: 20% " src="images/whatsnew/20150403.png" alt="April 2015" />
 
             <p>As you may have noticed, children are spending more time outdoors as warmer days are ahead! We are starting to find ticks in the area. Remember to check children each day; it takes a tick about 72 hours before it becomes fully engorged. When a tick is engorged it can transmit Lyme disease. An easy way to remove a tick is to apply dish soap to a paper towel and rub gently counter clockwise until the tick backs out. This removes the entire tick and is painless. It takes about 30 seconds to 1 minute for most ticks to back out.</p>
 
             <em> Wishing you all a Happy Spring Season,</em>
-            <p class="newsletter-signature">Maryann , Jennifer, Pam &amp; Staff</p>
+            <p id="newsletter-signature">Maryann , Jennifer, Pam &amp; Staff</p>
 
         </div>
 
@@ -107,7 +107,7 @@
 
             <p>Happy St. Patrick’s Day! March is finally here&hellip; and spring is officially around the corner, or at least we hope! We have a lot of news to catch you up on this month, including past and upcoming events. As St. Patrick’s Day approaches, we’re sure to see some mysterious little creatures lurking in the shadows. Hope you play along with this at home!</p>
 
-            <img class="newsletter-image" style="float:right; " src="images/whatsnew/20150301.png" alt="March 2015" />
+            <img id="newsletter-image" style="float:right; " src="images/whatsnew/20150301.png" alt="March 2015" />
 
             <p>February was a busy month full of activities &amp; Valentines Day parties and lots &amp; lots of snow storms! Thank you to all of our families who contributed food &amp; treats for the special classroom parties on Valentine’s Day. We are also appreciative of everyone’s patience and understanding with our snow removal process, it has been a lengthy process but the season is almost behind us and we are looking forward to the days of spring clean up! This year will go down in the record books! </p>
 
@@ -125,7 +125,7 @@
 
             <em>Have a wonderful month!</em>
 
-            <p class="newsletter-signature">Maryann , Jennifer, Pam &amp; Staff</p>
+            <p id="newsletter-signature">Maryann , Jennifer, Pam &amp; Staff</p>
 
         </div>
 
@@ -134,7 +134,7 @@
 
             <p>February has proved to be a snowy &amp; challenging month for all. We feel very lucky to have Steve Hebert and his crew attending to our needs. They have done a wonderful job of pushing back the piles of snow that keep coming…We ask that everyone continue to be patient during these times allowing one car at a time to pass up/down the hill in order to prevent any unforeseen accidents. </p>
 
-            <img class="newsletter-image" style="float:right; " src="images/whatsnew/20150201.png" alt="February 2015" />
+            <img id="newsletter-image" style="float:right; " src="images/whatsnew/20150201.png" alt="February 2015" />
 
             <p>For Valentine's Day, the classrooms will be celebrating with parties and valentines cards. Please see your child’s teacher to sign up to bring a treat in for the party. Many of the classrooms have been working on fun Valentine related activities throughout each of the classrooms, look for our bulletin board within the Preschool Building to be decorated with fun photos from the celebrations. Lots of love will be shared throughout the day! </p>
 
@@ -154,7 +154,7 @@
 
             <em>Best wishes,</em>
 
-            <p class="newsletter-signature">Maryann , Jennifer, Pam &amp; Staff</p>
+            <p id="newsletter-signature">Maryann , Jennifer, Pam &amp; Staff</p>
 
         </div>
 
@@ -163,7 +163,7 @@
         <div id="201412">
             <h1>December 2014 Newsletter</h1>
 
-            <img class="newsletter-image" src="images/whatsnew/20141201.png" alt="December 2014" />
+            <img id="newsletter-image" src="images/whatsnew/20141201.png" alt="December 2014" />
 
             <p>December is here, the time is going by so fast! At this special time of the year, we would like to extend our warm wishes for each of the families. If you are interested in coming in and sharing your family traditions with us, please feel free to speak with your child’s teacher to set up a date. We feel that this is a great opportunity and valuable learning experience for the children.</p>
 
@@ -193,7 +193,7 @@
 
             <em>Best,</em>
 
-            <p class="newsletter-signature">Maryann, Jennifer, Pam and Staff </p>
+            <p id="newsletter-signature">Maryann, Jennifer, Pam and Staff </p>
         </div>
 
         <div id="201411">
@@ -205,7 +205,7 @@
 
             <p>Our Ballet Program has begun and the children have been learning basic dance steps with Tricia Marshall. If you have not signed up for dance, but have a child that is interested, they are welcome to do a trial class before signing on for the weekly lessons. Please keep in mind that all dancers must be at least 3 years old and potty trained in order to participate. Keep in mind, there will be a private dance recital in May/ June that will showcase a year of accomplishments in dance! The event is always a show stopper as our tiny dancers perform both tap and ballet numbers for their guests!</p>
 
-            <img class="newsletter-image" style="float:right;" src="images/whatsnew/20141101.png" alt="November 2014" />
+            <img id="newsletter-image" style="float:right;" src="images/whatsnew/20141101.png" alt="November 2014" />
 
             <p>Our Karate Program is in full swing as well. There is still space within the class if you are interested in this optional Programming! Please remember this session is best suited for children between the ages of 4-5 years old. Free trial classes are offered to children that are interested. Please speak to you classroom teachers for a trial offering.</p>
 
@@ -225,7 +225,7 @@
 
             <p>Happy November!</p>
 
-            <p class="newsletter-signature">Maryann , Jennifer, Pam &amp; Staff</p>
+            <p id="newsletter-signature">Maryann , Jennifer, Pam &amp; Staff</p>
 
         </div>
 
@@ -234,7 +234,7 @@
 
             <p>Welcome into fall! We have been very fortunate to have many beautiful days throughout the months of September &amp; October. Picture Day was very successful as we had beautiful weather and many smiling children. For all families that have ordered pictures, the packages have been handed out. Please take a few moments and fill out our annual photo survey to help us fine tune your experience.</p>
 
-            <img class="newsletter-image" style="float:right;" src="images/whatsnew/20141001.png" alt="October 2014" />
+            <img id="newsletter-image" style="float:right;" src="images/whatsnew/20141001.png" alt="October 2014" />
 
             <p>We are pleased to announce that all of our Specialty Programs for the Center have started. Music with Jean will occur every Wednesday alternating older and younger classrooms each week. Seasonal songs and children’s favorites are sure to be on the list of songs to sing. Creative Movement with Patty Barr is in full session as the children are enjoying materials that help them learn rhythm and tempo in a fun hands on way.</p>
 
@@ -254,14 +254,14 @@
 
             <p>Enjoy the beautiful month!</p>
 
-            <p class="newsletter-signature">Maryann &amp; Jennifer</p>
+            <p id="newsletter-signature">Maryann &amp; Jennifer</p>
 
         </div>
 
         <div id="201409">
             <h1>September 2014 Newsletter</h1>
 
-            <img class="newsletter-image" style="float:right;" src="images/whatsnew/20140901.png" alt="September 2014" />
+            <img id="newsletter-image" style="float:right;" src="images/whatsnew/20140901.png" alt="September 2014" />
 
             <p>We would like to extend a warm welcome to all of our families old and new! We have just finished our first few weeks into the new school year and the children have all transitioned well. Although we have had a few setbacks with the office, we have tried to maintain regular business operation for all of our children and families. We have been very touched by the outpouring of support and well wishes that all of the families and staff have extended over the past few weeks due to our recent fire.</p>
 
@@ -301,7 +301,7 @@
 
             <p>Here’s to a great September and an even better school year!</p>
 
-            <p class="newsletter-signature">Maryann, Jennifer and Staff</p>
+            <p id="newsletter-signature">Maryann, Jennifer and Staff</p>
 
         </div>
 
@@ -315,6 +315,6 @@
     <!-- END CURRENT NEWSLETTER -->
 
 </div>
-<hr class="clear" />
+<hr id="clear" />
 
 <?php include 'footer.html'; ?>

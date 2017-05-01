@@ -24,7 +24,7 @@
   <h2>Administrative Staff</h2>
 
   <div class="teacher">
-    <div class="teacher-picture">
+    <div id="teacher-picture">
         <img src="images/staff/jennifer_k.jpg" />
         <span>Jennifer Kydd</span>
     </div>
@@ -35,17 +35,17 @@
   </div>
 
   <div class="teacher">
-    <div class="teacher-picture">
+    <div id="teacher-picture">
       <img src="images/staff/sheila_c.jpg" />
       <span>Sheila Crosby</span>
     </div>
     <p>Sheila joined the Administration Team at Kids-A-Lot in the summer of 2016. She has more than 25 years of experience working with children, and has earned her Early Childhood Education degree at Aquinas College in Newton. She is both Lead Teacher and Director II qualified.</p>
-    <p>Shiela enjoys coming into the classrooms and establishing a rapport with all the children on a daily basis. She looks forward to building bonds, sharing conversations, and providing hugs to all the children within the program. She finds their appetite for learning new things to be so rewarding; and values the teaching staff tremendously for providing these rich learning opportunities. She most enjoys their willingness for adventure and watching their ingenuity while at play.</p> 
+    <p>Sheila enjoys coming into the classrooms and establishing a rapport with all the children on a daily basis. She looks forward to building bonds, sharing conversations, and providing hugs to all the children within the program. She finds their appetite for learning new things to be so rewarding; and values the teaching staff tremendously for providing these rich learning opportunities. She most enjoys their willingness for adventure and watching their ingenuity while at play.</p> 
     <p>During her personal time, Sheila likes to surround herself with both friends and family. She also likes to read, hike, travel, and watch the cooking shows on the Food Network channel.</p>
   </div>
 
   <div class="teacher">
-    <div class="teacher-picture">
+    <div id="teacher-picture">
         <img src="images/staff/pam_s.jpg" />
         <span>Pam Stander</span>
     </div>
