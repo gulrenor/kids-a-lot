@@ -1,11 +1,23 @@
 <?php include 'header.php'; ?>
 
 <!--<h1 class="centered">Let Us Introduce Your Child <br class="responsive-break" />to a World of Learning and Growing</h1>-->
-<img src="images/kal-sign.jpg" style="float: right; margin:1em; background-image:url(images/frame.png) no-repeat center center fixed; background-size: cover;
+
+<article class="notification width-30 flex-column">
+  <a href="http://wickedlocalfavorites.com/" target="_blank">
+    <img class="responsive" src="images/readers-choice-award-2017.png" alt="2017 Reader's Choice Award" title="2017 Reader's Choice Award" />
+  </a>
+  <div class="centered">
+      <em>Readers have voted</em>
+      <h2>Kids-A-Lot</h2>
+      <strong>#1 Choice for Daycare/Preschool<br />in Stow, MA</strong>
+  </div>
+</article>
+
+<!-- <img src="images/kal-sign.jpg" style="float: right; margin:1em; background-image:url(images/frame.png) no-repeat center center fixed; background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;" />
-
+-->
 <p>Kids-A-Lot, established in August 1987, provides quality childcare for children age's three months to seven years. We believe childhood is a special time, a time of excitement and fun, as well as learning and growing! We combine an atmosphere of interest and fun, to enhance "those early learning experiences." We provide the warm environment needed to encourage the development of a child's confidence, self-esteem and individuality. Our programs are designed to help your child build a solid foundation of basic academic skills, strong muscle development, appropriate social skills and ultimately a healthy belief in themselves and their abilities.</p>
 
 <p>Our Program focus is developmental, which means teaching your child some basic principles; such as the enjoyment of co-operative play, sharing and caring about themselves and others. In addition, we emphasize the importance of self-expression through the channels of language, music, art, and creative movement. We share with each child the joy of his or her individual accomplishments.</p>

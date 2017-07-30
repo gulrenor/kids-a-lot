@@ -5,11 +5,34 @@
 </div>
 
 <div class="left">
-    <h2>Give Us a Call at</h2>
-    <h1>978-897-6717</h1>
-    <br>
-    <h2>or Email us at</h2>
-    <img src="images/tempemail.JPG">
+  
+    <div>
+      <a href="https://www.facebook.com/Kids-A-Lot-339814946102541/" title="Facebook" target="_blank">
+        <i style="float:right;" class="fa fa-3x fa-fw fa-facebook-official"></i>
+      </a>
+      <h3>
+         Make sure to <a href="https://www.facebook.com/Kids-A-Lot-339814946102541/" title="Facebook" target="_blank">follow us on Facebook</a> for all our up-to-date news and important announcements.
+      </h3>
+    </div>
+    <hr />
+    <article class="notification flex-row">
+      <a href="http://wickedlocalfavorites.com/" target="_blank">
+        <img class="responsive" src="images/readers-choice-award-2017.png" alt="2017 Reader's Choice Award" title="2017 Reader's Choice Award" />
+      </a>
+      <div class="centered">
+          <em>Readers have voted</em>
+          <h2>Kids-A-Lot</h2>
+          <strong>#1 Choice for Daycare/Preschool<br />in Stow, MA</strong>
+      </div>
+    </article>
+    <hr />
+    <article>
+      <h2>Give Us a Call at</h2>
+      <h1>978-897-6717</h1>
+      <br>
+      <h2>or Email us at</h2>
+      <img src="images/tempemail.JPG">
+    </article>
 
     <!--
     <h2 style="float:left;">tel: 978-897-6717</h2>
