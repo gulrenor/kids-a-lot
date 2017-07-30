@@ -1,0 +1,99 @@
+{
+	"extras": [
+		{
+			"name": "an extra"
+		},
+		{
+			"name": "karate"
+		}
+	],
+	"navs": [
+		{
+			"name": "About Us",
+			"url": "index.html"
+		},
+		{
+			"name": "What's New",
+			"url": "whatsnew.html"
+		},
+		{
+			"name": "Programs & Staff",
+			"url": "programs.html"
+		},
+		{
+			"name": "Extras",
+			"url": "extras.html"
+		},
+		{
+			"name": "Parent's Info",
+			"url": "forparents.html"
+		},
+		{
+			"name": "Contact Us",
+			"url": "contact.html"
+		}
+	],
+	"programs": [
+		{
+			"name": "Wee People",
+			"machineName": "wee_people",
+			"img": "programs-weepeople.png",
+			"description": "Our babies or &raquo;Wee People&laquo; are our youngest group of children at Kids-A-Lot. In order to be eligibile for this group, babies have to be at least three months of age.",
+			"ageRange": [
+				"3+",
+				"months"
+			],
+			"summary": "We feel that this program is unique for its warmth and homelike atmosphere. Keeping the number of children to seven, with two full-time and one part-time teacher for support, allows us to provide individual attention and quality loving care for this tender age. This program is provided by experienced Early Childhood Educators."
+		},
+		{
+			"name": "Wandering Minstrels",
+			"machineName": "wandering_minstrels",
+			"img": "programs-wanderingminstrel.png",
+			"description": "A step up in the development are the &raquo;Wandering Minstrels&laquo; &ndash; our young toddlers who are beginning to view their environment from a new perspective&hellip; on their feet!",
+			"ageRange": [
+				"15-24",
+				"months"
+			],
+			"summary": "We feel that this program is unique for its warmth and homelike atmosphere. Keeping the number of children to seven, with two full-time and one part-time teacher for support, allows us to provide individual attention and quality loving care for this tender age. This program is provided by experienced Early Childhood Educators."
+		},
+		{
+			"name": "Lil' Dragons",
+			"machineName": "lil_dragons",
+			"img": "programs-lildragons.png",
+			"description": "This group of children we fondly refer to as our &laquo;Lil' Dragons.&raquo; They are an enthusiastic group of children who are eager to learn and explore. They spend most of their day trying to figure out how the world around them works!",
+			"ageRange": [
+				"2",
+				"years"
+			],
+			"summary": "We feel that this program is unique for its warmth and homelike atmosphere. Keeping the number of children to seven, with two full-time and one part-time teacher for support, allows us to provide individual attention and quality loving care for this tender age. This program is provided by experienced Early Childhood Educators."
+		}
+	],
+	"teachers": [
+		{
+			"name": "Jennifer Kydd",
+			"image": "jennifer_k.jpg",
+			"class": [
+				"alumni",
+				"admin"
+			],
+			"bio": "<p>Jennifer has been working with children since 1995. She has taught children of all ages including Kindergarten and First Grade in both Public and Private settings as well as p/st toddlers. Jennifer received her BS in Early Childhood Education from Salem State University and has several courses towards an MA in ECE. She has also been a development specialist for EI.</p><p>She loves children’s sense of humor, their love for adventure and their willingness to try new experiences. She most enjoys children’s happy nature and their endless hugs on a daily basis; their smiles brighten any day!</p><p>In her spare time she loves to cook, bake, and most of all go shopping for shoes!. Most of her free time is spent with her husband Matt, their children Garrett and Ava-Marie, and usually involves trips in the great outdoors to the beach, hiking, and playing baseball!</p><p>She takes pride in offering a high quality program for children and their families. Her daily goal is to partner with all children, staff, and parents to ensure the best programming for children.</p>"
+		},
+		{
+			"name": "teacher 2",
+			"image": "2.jpg",
+			"class": [
+				"something else"
+			],
+			"bio": "no actually, im a teacher"
+		},
+		{
+			"name": "teacher 3",
+			"image": "3.jpg",
+			"class": [
+				"something else",
+				"alumni"
+			],
+			"bio": "i belong in this classroom"
+		}
+	]
+}

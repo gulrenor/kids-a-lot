@@ -1,0 +1,27 @@
+extends _layout
+
+mixin teacher(teacher, teacherClass)
+  each classroom in teacher.class
+    if classroom == teacherClass
+      .teacher
+        .col-lg-3.pull-left
+          img.col.img-fluid(src="img/staff/" + teacher.image alt=teacher.name title=teacher.name)
+          p.text-center=teacher.name
+        p !{teacher.bio}
+
+block content
+  -var pageName = "Home"
+  p Kids-A-Lot, established in August 1987, provides quality childcare for children age's three months to seven years. We believe childhood is a special time, a time of excitement and fun, as well as learning and growing! We combine an atmosphere of interest and fun, to enhance "those early learning experiences." We provide the warm environment needed to encourage the development of a child's confidence, self-esteem and individuality. Our programs are designed to help your child build a solid foundation of basic academic skills, strong muscle development, appropriate social skills and ultimately a healthy belief in themselves and their abilities.
+
+  p Our Program focus is developmental, which means teaching your child some basic principles; such as the enjoyment of co-operative play, sharing and caring about themselves and others. In addition, we emphasize the importance of self-expression through the channels of language, music, art, and creative movement. We share with each child the joy of his or her individual accomplishments.
+
+  h2 Kids-a-Lot Strives to&hellip;
+  ul
+    li Introduce each child into the "world of learning" in a fun, exciting way.
+    li Help each child develop to his/her full potential in the areas of physical, emotional, social and intellectual growth.
+    li Provide a warm, safe, loving environment, in which each child feels comfortable to explore his/her creative instincts.
+
+  h2 Administrative Staff
+
+  each teacher, i in teachers
+    +teacher(teacher, "admin")

@@ -1,0 +1,11 @@
+extends _layout
+
+block content
+  each program in programs
+    h1=program.name
+    img(src="img/" + program.img)
+    .age-range
+      each ageRange in program.ageRange
+        span=ageRange
+        br
+    p !{program.description}

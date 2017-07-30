@@ -1,0 +1,27 @@
+{
+  "programs": [{
+      "name": "Wee People",
+      "machineName": "wee_people",
+      "img": "programs-weepeople.png",
+      "description": "Our babies or &raquo;Wee People&laquo; are our youngest group of children at Kids-A-Lot. In order to be eligibile for this group, babies have to be at least three months of age.",
+      "ageRange": ["3+", "months"],
+      "summary": "We feel that this program is unique for its warmth and homelike atmosphere. Keeping the number of children to seven, with two full-time and one part-time teacher for support, allows us to provide individual attention and quality loving care for this tender age. This program is provided by experienced Early Childhood Educators."
+    },
+    {
+      "name": "Wandering Minstrels",
+      "machineName": "wandering_minstrels",
+      "img": "programs-wanderingminstrel.png",
+      "description": "A step up in the development are the &raquo;Wandering Minstrels&laquo; &ndash; our young toddlers who are beginning to view their environment from a new perspective&hellip; on their feet!",
+      "ageRange": ["15-24", "months"],
+      "summary": "We feel that this program is unique for its warmth and homelike atmosphere. Keeping the number of children to seven, with two full-time and one part-time teacher for support, allows us to provide individual attention and quality loving care for this tender age. This program is provided by experienced Early Childhood Educators."
+    },
+    {
+      "name": "Lil' Dragons",
+      "machineName": "lil_dragons",
+      "img": "programs-lildragons.png",
+      "description": "This group of children we fondly refer to as our &laquo;Lil' Dragons.&raquo; They are an enthusiastic group of children who are eager to learn and explore. They spend most of their day trying to figure out how the world around them works!",
+      "ageRange": ["2", "years"],
+      "summary": "We feel that this program is unique for its warmth and homelike atmosphere. Keeping the number of children to seven, with two full-time and one part-time teacher for support, allows us to provide individual attention and quality loving care for this tender age. This program is provided by experienced Early Childhood Educators."
+    }
+  ]
+}

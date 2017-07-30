@@ -1,5 +1,5 @@
 
-# Created by https://www.gitignore.io/api/windows,sass,adobe,git,node,composer
+# Created by https://www.gitignore.io/api/node,sass,macos,adobe,windows
 
 ### Adobe ###
 # Adobe Source Files
@@ -9,16 +9,32 @@
 *.prproj
 *.aep
 
-### Composer ###
-composer.phar
-/vendor/
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
 
-# Commit your application's lock file http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file
-# You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
-# composer.lock
+# Icon must end with two \r
+Icon
 
-### Git ###
-*.orig
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
 
 ### Node ###
 # Logs
@@ -106,4 +122,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/windows,sass,adobe,git,node,composer
+# End of https://www.gitignore.io/api/node,sass,macos,adobe,windows

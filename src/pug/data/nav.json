@@ -1,0 +1,21 @@
+{
+  "navs": [{
+    "name": "About Us",
+    "url": "index.html"
+  }, {
+    "name": "What's New",
+    "url": "whatsnew.html"
+  }, {
+    "name": "Programs & Staff",
+    "url": "programs.html"
+  }, {
+    "name": "Extras",
+    "url": "extras.html"
+  }, {
+    "name": "Parent's Info",
+    "url": "forparents.html"
+  }, {
+    "name": "Contact Us",
+    "url": "contact.html"
+  }]
+}

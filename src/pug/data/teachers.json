@@ -1,0 +1,20 @@
+{
+  "teachers": [
+    {
+      "name": "Jennifer Kydd",
+      "image": "jennifer_k.jpg",
+      "class": ["alumni", "admin"],
+      "bio": "<p>Jennifer has been working with children since 1995. She has taught children of all ages including Kindergarten and First Grade in both Public and Private settings as well as p/st toddlers. Jennifer received her BS in Early Childhood Education from Salem State University and has several courses towards an MA in ECE. She has also been a development specialist for EI.</p><p>She loves children’s sense of humor, their love for adventure and their willingness to try new experiences. She most enjoys children’s happy nature and their endless hugs on a daily basis; their smiles brighten any day!</p><p>In her spare time she loves to cook, bake, and most of all go shopping for shoes!. Most of her free time is spent with her husband Matt, their children Garrett and Ava-Marie, and usually involves trips in the great outdoors to the beach, hiking, and playing baseball!</p><p>She takes pride in offering a high quality program for children and their families. Her daily goal is to partner with all children, staff, and parents to ensure the best programming for children.</p>"
+    }, {
+      "name": "teacher 2",
+      "image": "2.jpg",
+      "class": ["something else"],
+      "bio": "no actually, im a teacher"
+    }, {
+      "name": "teacher 3",
+      "image": "3.jpg",
+      "class": ["something else", "alumni"],
+      "bio": "i belong in this classroom"
+    }
+  ]
+}
