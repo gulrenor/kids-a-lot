@@ -33,7 +33,7 @@
     <li>Patriots Day</li>
     <li>Memorial Day</li>
     <li>Independence Day</li>
-    <li>Last Week of August</li>
+    <li>Last Week of August (Call for confirmation.)</li>
     <li>Labor Day</li>
     <li>Columbus Day</li>
     <li>Thanksgiving and the Following Day</li>
