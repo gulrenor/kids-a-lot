@@ -12,21 +12,30 @@ head
   title Kids-A-Lot #{pageName}
 
   block styles
-    link(rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous")
     link(rel="stylesheet" type="text/css" href="css/styles.min.css")
 
-body.container-fluid
-  header.row
-    .col-8.mx-auto
+body
+  .hero
+    .hero-body
+      .container.level
+        img.horse.level-item.is-hidden-touch(src="img/horse_left.gif")
+        img.logo.level-item.is-centered(src="img/header-new.png")
+        img.horse.level-item.is-hidden-touch(src="img/horse_right.gif")
+  
+  nav.nav
+    .container
       block header
       include _header.pug
-  main.row
-    .col-8.mx-auto
-      block content
-  footer.row
-    .col-8.mx-auto
-      block footer
-        p footer
+  
+  main
+    .container
+      section.section
+        .content
+          block content
+  
+  footer.footer
+    block footer
+
   // Scripts
   block scripts
     script(src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous")

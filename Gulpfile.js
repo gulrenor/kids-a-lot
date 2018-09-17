@@ -26,7 +26,7 @@ var path = require('path');
 var merge = require('gulp-merge-json');
 
 // Locations
-var dirSass_In = 'src/sass/**/*.*css';
+var dirSass_In = 'src/scss/**/*.*css';
 var dirCSS_Out = 'www/css/';
 
 var dirJS_In = 'src/js/**/*.js';
