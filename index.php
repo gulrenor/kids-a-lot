@@ -40,9 +40,10 @@
         <img src="images/staff/jennifer_k.jpg" />
         <span>Jennifer Kydd</span>
     </div>
-    <p>Jennifer has been working with children since 1995. She has taught children of all ages including Kindergarten and First Grade in both Public and Private settings as well as p/st toddlers. Jennifer received her BS in Early Childhood Education from Salem State University and has several courses towards an MA in ECE. She has also been a development specialist for EI.</p>
-    <p>She loves children’s sense of humor, their love for adventure and their willingness to try new experiences. She most enjoys children’s happy nature and their endless hugs on a daily basis; their smiles brighten any day!</p>
-    <p>In her spare time she loves to cook, bake, and most of all go shopping for shoes!. Most of her free time is spent with her husband Matt, their children Garrett and Ava-Marie, and usually involves trips in the great outdoors to the beach, hiking, and playing baseball!</p>
+    <p>Jennifer has been working with children since 1995. She has taught children of all ages including Kindergarten and First Grade in both Public and Private settings. In addition, she has worked for many years with infants and toddlers through being a development specialist at EI.Jennifer received her BS in Early Childhood Education from Salem State University and has several courses towards an MA in ECE. She has worked in public and private programs as well as for-profit and non-profit programs.</p>
+    <p>Jennifer came to Kids-A-Lot in 2009. She was attracted to the program because of the beautiful, natural setting, and strong roots within the community that the center is known for.</p>
+    <p>She loves children’s sense of humor, their love for adventure and their willingness to try new experiences. She most enjoys children’s happy nature and their endless hugs on a daily basis; their smiles brighten any day! She takes pride in partnering with families, and strives to build a strong bridge between home and school.</p>
+    <p>In her spare time she loves to cook, bake, and most of all go shopping for shoes!. Most of her free time is spent with her husband Matt, their children Garrett and Ava-Marie, and usually involves trips in the great outdoors to the beach, hiking mountains, and playing baseball or softball!</p>
     <p>She takes pride in offering a high quality program for children and their families. Her daily goal is to partner with all children, staff, and parents to ensure the best programming for children.</p>
   </div>
 
@@ -51,8 +52,8 @@
       <img src="images/staff/sheila_c.jpg" />
       <span>Sheila Crosby</span>
     </div>
-    <p>Sheila joined the Administration Team at Kids-A-Lot in the summer of 2016. She has more than 25 years of experience working with children, and has earned her Early Childhood Education degree at Aquinas College in Newton. She is both Lead Teacher and Director II qualified.</p>
-    <p>Sheila enjoys coming into the classrooms and establishing a rapport with all the children on a daily basis. She looks forward to building bonds, sharing conversations, and providing hugs to all the children within the program. She finds their appetite for learning new things to be so rewarding; and values the teaching staff tremendously for providing these rich learning opportunities. She most enjoys their willingness for adventure and watching their ingenuity while at play.</p> 
+    <p>Sheila joined the Administration Team at Kids-A-Lot in the summer of 2016. She has more than 27 years of experience working with children, and has earned her Early Childhood Education degree at Aquinas College in Newton. She is both Lead Teacher and Director II qualified.</p>
+    <p>Sheila enjoys coming into the classrooms and establishing a rapport with all the children on a daily basis. She looks forward to building bonds, sharing conversations, and providing hugs to all the children within the program. She most enjoys their willingness for adventure and watching their ingenuity while at play. She finds their appetite for learning new things to be so rewarding; and values the teaching staff tremendously for providing these rich learning opportunities. She most enjoys their willingness for adventure and watching their ingenuity while at play.</p> 
     <p>During her personal time, Sheila likes to surround herself with both friends and family. She also likes to read, hike, travel, and watch the cooking shows on the Food Network channel.</p>
   </div>
 
@@ -61,7 +62,7 @@
         <img src="images/staff/pam_s.jpg" />
         <span>Pam Stander</span>
     </div>
-    <p>Pam has been a Bookkeeper and Small Business Office Manager for over 20 years. Her favorite job has been and still is working for Kids-A-Lot (16 years in 2016.) She loves when the children stop by the office to brighten up her day. The environment at Kids-A-Lot is second to none! Pam enjoys walking, striper fishing with her husband Dave, reading, and entertaining guests. She also enjoys trips to the Outer Banks in North Carolina with her family. Pam is the mother of two grown children and in 2012 became a proud grandmother! (Biggest striper Pam caught: 42”)</p>
+    <p>Pam has been a Bookkeeper and Small Business Office Manager for over 20 years. Her favorite job has been and still is working for Kids-A-Lot (18 years in 2018.) She loves when the children stop by the office to brighten up her day. The environment at Kids-A-Lot is second to none! Pam enjoys walking, striper fishing with her husband Dave, reading, and entertaining guests. She also enjoys trips to the Outer Banks in North Carolina with her family. Pam is the mother of two grown children and "Nana" to Ava and Gavin.</p>
   </div>
 
   <hr class="clear" />

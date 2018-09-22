@@ -21,8 +21,8 @@
                     <img src="images/staff/wendy_s.jpg" />
                     <span>Wendy Slavin</span>
                 </div>
-                <p id="teacher-bio">Wendy has been working with young children for over thirty years! She is Infant/Toddler DEEC Certified. She feels that working with children is the most rewarding job you can have, especially with infants. She finds watching them grow in their first year of life incredible. Wendy ran her own family daycare business for many years before joining the staff at Kids-A-Lot. In her spare time, Wendy enjoys exercising and working in her yard. She is a grandmother of five, and she and her husband Bill love spending time with them! She also enjoys trips to Aruba and spending time in York, ME over the summer.
-                </p>
+                <p id="teacher-bio">Wendy has been working with young children for over forty years! She is Infant/Toddler DEEC Certified. She feels that working with children is the most rewarding job you can have, especially with infants. She finds watching them grow in their first year of life incredible. Wendy ran her own family daycare business for many years before joining the staff at Kids-A-Lot. In her spare time, Wendy enjoys exercising and working in her yard. She is a grandmother of five. She also enjoys trips to Aruba and spending time in York, ME and Cape Cod over the summer.</p>
+                <p>Now semi-retired, she loevs being able to spend more time with her grandchildren and friends.</p>
                 <hr id="clear" />
             </div>
 
@@ -31,7 +31,7 @@
                     <img src="images/staff/marisela_c.jpg" />
                     <span>Marisela Carr</span>
                 </div>
-                <p id="teacher-bio">We welcome back Marisela to the Kids-A-Lot Infant classroom after several years of staying home to care for her own infant who is now 15! Marisela is a graduate of The University of Mexico, The Cosmix Hairdressing School and the Quinsigamond Community College Early Childhood Program where she received her Infant Toddler Teaching Certificate. Marisela’s calm demeanor is the perfect virtue for soothing all infant needs. Although quiet and shy in nature, her calming interactions are a perfect match for our youngest program. We are very happy to have her join us again!</p>
+                <p id="teacher-bio">Marisela returned to her Kids-A-Lot family in 2014 after raising her daughter who is now 19! Marisela is a graduate of the University of Mexico, the Cosmix Hairdressing School, and the Quinsigamond Community College Early Childhood Program where she received her Infant Toddler Teaching Certificate. Marisela's calm demeanor is the perfect virtue for soothing all infant needs. Although quiet and shy in nature, her calming interactions are a perfect match for our youngest program. We are very happy to have her join us again!</p>
                 <hr id="clear" />
             </div>
 
@@ -40,7 +40,15 @@
                     <img src="images/staff/anja_b.jpg" />
                     <span>Anja Butera</span>
                 </div>
-                <p id="teacher-bio">Hi, my name is Anja Butera and I am quite pleased and feel privileged to become part of the staff here at Kids-A-Lot. To begin, I attended Adelphi University in New York and was a Fine Arts Major. I later moved to Scotland and worked with Special Needs students ages 5 to 16. Upon my return to the States I worked as a Head Nursery teacher at the Waldorf School in Lexington. I worked again with Special Needs students at the CASE Collaborative Preschool in Lincoln. One of my greatest joys is sharing in all the various ways every child I care for grows and unfolds. I enjoy integrating crafts, music, art, acting out stories, and other things that children seem to thrive on. My patience and understanding of a young infants needs are a high priority in my daily work with them. I try to encourage them to feel secure and happy with who they are and most of all, loved.</p>
+                <p id="teacher-bio">Hi, my name is Anja Butera and I am quite pleased and feel privileged to be part of the staff here at Kids-A-Lot. To begin, I attended Adelphi University in New York as a Fine Arts Major. I later moved to Scotland and worked with Special Needs students ages 5 to 16. Upon my return to the States I worked as a Head Nursery teacher at the Waldorf School in Lexington. I worked again with Special Needs students at the CASE Collaborative Preschool in Lincoln. One of my greatest joys is sharing in all the various ways every child I care for grows and unfolds. I enjoy integrating crafts, music, art, acting out stories, and other things that children seem to thrive on. Patience and understanding of a young infants needs are a high priority in my daily work with them. I try to encourage them to feel secure and happy with who they are and most of all, loved.</p>
+                <hr id="clear" />
+            </div>
+            <div class="teacher">
+                <div id="teacher-picture">
+                    <img src="images/staff/kary_s.jpg" />
+                    <span>Kary Sargent</span>
+                </div>
+                <p id="teacher-bio">I have been working with young children for 15 years, mainly with infants and toddlers. I love watching their little personalities develop and seeing them accomplish new milestones.<br />I received my Early Childhood certification through Middleset Community College. I also graduated from Slater College in 2013 with my massage license.<br />In my spare time, I enjoy spending time with my 5 year old son. I love to camp, hike, scrapbook, and cook!</p>
                 <hr id="clear" />
             </div>
 

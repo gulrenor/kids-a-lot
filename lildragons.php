@@ -25,7 +25,7 @@
                 <img src="images/staff/nora_h.jpg" />
                 <span>Nora Hammar</span>
             </div>
-            <p id="teacher-bio">Nora has been working here at Kids-A-Lot with young children for twenty three years! She is Infant/Toddler and Preschool Teacher DEEC Certified. Nora loves to watch the children grow, learn, and mature. “They say the funniest things and keep me smiling” says Nora. It is important to her to incorporate nature into the classroom themes, and the projects she does with the children. Nora is a mother of two sons, Luke who is twenty one and Zach who is twenty four. Both of them attended Kids-A-Lot as children.</p>
+            <p id="teacher-bio">Nora has been working here at Kids-A-Lot with young children for twenty three years! She is Infant/Toddler and Preschool Teacher DEEC Certified. Nora loves to watch the children grow, learn, and mature. “They say the funniest things and keep me smiling” says Nora. It is important to her to incorporate nature into the classroom themes, and the projects she does with the children. Nora is a mother of two sons, Luke and Zach. Both of them attended Kids-A-Lot as children.</p>
             <hr id="clear" />
         </div>
 
@@ -40,13 +40,12 @@
 
         <div class="teacher">
             <div id="teacher-picture">
-                <img src="images/staff/jackie_b.jpg" />
-                <span>Jackie Burbine</span>
+                <img src="images/staff/jamiann_a.jpg" />
+                <span>Jamiann Azud</span>
             </div>
-            <p id="teacher-bio">My name is Jackie Burbine. I am so excited to be part of the Young Toddler teaching team at Kids-A-Lot! Throughout high school and college I have worked in programs with children of all ages and during that time I became particularly interested in Toddler Development. I graduated in 2012 from Westfield State University with a Bachelor’s Degree in Special Education. I love the field of teaching and I am most drawn to working with young children due to their openness to explore the world around them. Toddlers present a welcome challenge as they are becoming independent in their skills and play but also require much love and support while reaching their milestones. In my time away from Kids-A-Lot I am attending a class called “Floor Time” and learning methods to teach young children how to share. I also enjoy coaching the Cheerleading team at Ayer-Shirley High School!</p>
+            <p id="teacher-bio">Jamiann has been working with children for six years! She graduated from Minuteman Regional High School Tech and is certified for DEEC Early Childhood Education for teaching preschoolers and toddlers. She loves teaching children new things and watching them grow. In her spare time, she likes spending time with her family and friends, going to the beach, going shopping, to the movies, and out to eat. She loves watching the Red Sox on television, and in the fall she watches football with her brother when the Patriots play. She loves working with the children and their families.</p>
             <hr id="clear" />
         </div>
-
 
     </div>
 

@@ -45,7 +45,7 @@
                 <img src="images/staff/laura_c_2.jpg" />
                 <span>Laura Correa</span>
             </div>
-            <p id="teacher-bio">Laura has been working with children for 12 years! Laura received a Bachelors degree in Psychology from Worcester State College. She is DEEC Lead Preschool Teacher Certified. What Laura likes best about working with young children is teaching them a new concept and seeing them apply it later. Laura says young children’s imagination is outstanding. Hearing their stories and seeing their pictures is something she loves. Laura’s hobbies/interests are playing monster trucks and “jungle of dinosaurs” with her two boys. She enjoys playing soccer, watching horror movies, and cheering on Boston sports teams. Laura also enjoys collecting snowmen to decorate her home for the winter.</p>
+            <p id="teacher-bio">My name is Laura Correa and I am the lead teacher in the Kindergarten Enrichment classroom. I have been working at Kids-A-Lot for eleven years. I am a graduate of Worcester State College with my BA in Psychology. Previous to joining the Kids-A-Lot family, I worked in the Southborough School District with special needs children.<br/>I live in Marlborough with my husband Chris and our two boys. Mason is 9 years old and going into 4th grade and Vincent will be turning 7 and starting 1st grade this fall. I enjoy swimming, baking, and watching my boys play football, baseball, and soccer. I also enjoy watching movies and cheering on our local sports teams. Go Pats!</p>
             <hr id="clear" />
         </div>
 
@@ -60,10 +60,10 @@
 
         <div class="teacher">
             <div id="teacher-picture">
-                <img src="images/staff/erinn_m.jpg" />
-                <span>Erinn Makary</span>
+                <img src="images/staff/blank.png" />
+                <span>Ellen Randolph</span>
             </div>
-            <p id="teacher-bio">Erinn holds a degree in Early Childhood Education from Mount Wachusett Community College. She is Lead Infant/Toddler and Preschool Teacher qualified. Erinn has been working with young children for fifteen years. She loves watching them learn and grow. She enjoys arriving to work in the morning to see their smiling faces! In her free time, Erinn is an advisor to a Venture Crew in Littleton and she also works with a Crew in Acton (Outdoor Adventuring.) Erinn has volunteered many hours with organizations similar to Girl Scouts/Boy Scouts that improve the lives of young adults. She loves reading books and going camping!</p>
+            <p id="teacher-bio">Hi, my name is Ellen Randolph and I am a teacher in the Kindergarten Enrichment Classroom. I am a graduate of Rutgers University and I have been with Kids-A-Lot for a bit over two years now. Previously, I worked within the Stow school system and as a substitute teacher for the Nashoba Regional School District. I am DEEC certified preschool teacher and I am currently studying to attain my Lead Teacher Certificate. <br />I live in Stow with my son, Zach, also a Kids-A-Lot alumnus, who will be entering High School in the fall. Toghether we like to travel and discover new things.</p>
             <hr id="clear" />
         </div>
 

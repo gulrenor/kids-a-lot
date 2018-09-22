@@ -21,19 +21,19 @@
 
             <div class="teacher">
                 <div id="teacher-picture">
-                    <img src="images/staff/debra_b.jpg" />
-                    <span>Debra Bolduc</span>
+                    <img src="images/staff/caroline_a_2.jpg" />
+                    <span>Caroline Atkinson</span>
                 </div>
-                <p id="teacher-bio">Debbi has over 25 years of experience working with children ages 4 to 18. She is excited about being able to share her passions for the “natural” world, creative arts and science with pre-schoolers. She enjoys the high energy level of young children as well as their never ending sense of curiosity and wonder as well as their infectious laughter and smiles. Debbi holds a degree in Elementary Education and General Science. She has 16 years of teaching experience. Additionally she has worked at a number of summer camps acting as Camp Director, Nature and Outdoor Specialist and Waterfront Director. She is a competitively trained swimmer and has taught swimming and coached swim teams for over 20 years. She currently teaches swimming to special needs children and is a Water Fitness Instructor. Debbi loves to travel, and has roamed all over the U.S., Europe, and Costa Rica. In her free time she pursues outdoor activities such as canoeing, kayaking, and hiking. She is an avid photographer and a Performing Arts enthusiast.</p>
+                <p id="teacher-bio">My name is Caroline Atkinson, and I have been working with children for eight years! Recently I have obtained an associate Degree in Early Childhood, and a bachelor's degree in Psychology. I love making the children laugh and teaching them new things every day. In my spare time I like to travel, and spend time with my family and friends.</p>
                 <hr id="clear" />
             </div>
 
             <div class="teacher">
                 <div id="teacher-picture">
-                    <img src="images/staff/caroline_a_2.jpg" />
-                    <span>Caroline Atkinson</span>
+                    <img src="images/staff/allison_c.jpg" />
+                    <span>Allison Casey</span>
                 </div>
-                <p id="teacher-bio">Caroline has been working with children for 5 years. Caroline is Infant/Toddler/Preschool DEEC Certified. Caroline is currently working on her degree in Early Childhood Education. What she loves most about working with young children is making them laugh and teaching them new things everyday. In her spare time, Caroline likes to run, dance, paint, bake, travel, and spend time with her friends.</p>
+                <p id="teacher-bio">My name is Allison and I have been at Kids-A-Lot for a yaer now, though I have been working in different preschool settings for over 6! I'm currently in the process of attaining my master's in Special Education.<br />In my free time, I enjoy hanging out with with friends, watching Netflix, canoeing, pumpkin-flavored everything, going on day-trips, and sightseeing. One of my goals in life is to travel to all seven continents.</p>
                 <hr id="clear" />
             </div>
 

@@ -23,18 +23,26 @@
                 <img src="images/staff/linda_c.jpg" />
                 <span>Linda Colaluca</span>
             </div>
-            <p id="teacher-bio">Linda has worked in the field of Early Childhood Education for over twenty-six years! She is a DEEC Certified Preschool Teacher as well as Director II qualified. Linda loves the spontaneity of working with children. “Young children have so much energy and enthusiasm, it’s contagious!” In her spare time she enjoys antiquing, going to the beach, cooking, gardening, reading, politics, and spending time with her five year old granddaughter, Isabella (Izzy,) and her two wonderful children, Amy and Patrick.
+            <p id="teacher-bio">Linda has worked in the field of Early Childhood Education for over thirty eight years! She is a DEEC Certified Lead Teacher as well as Director II qualified. Linda loves the spontaneity of working with children. “Young children have so much energy and enthusiasm, it’s contagious!” In her spare time she enjoys antiquing, going to the beach, cooking, gardening, reading, politics, and spending time with her eleven year old granddaughter, Isabella (Izzy,) and her two wonderful children, Amy and Patrick.
             </p>
             <hr id="clear" />
         </div>
 
         <div class="teacher">
             <div id="teacher-picture">
-                <img src="images/staff/alysa_k.jpg" />
-                <span>Ms. Alysa</span>
+                <img src="images/staff/jackie_b.jpg" />
+                <span>Jackie Burbine</span>
             </div>
-            <p id="teacher-bio">Ms. Alysa loves working with small children. She appreciates their perspective on life and the way they learn. She believes every child is unique and has something to contribute to the group as a whole. She treats each child as an inventor and a teacher. She believes adults can learn from children as much as they can learn from us. She loves teaching outside when possible while cultivatingan interest in independent discovery. She has had experience in diverse settings since she began working with children in 1996. She recieved her Associate's Degree from Post University in Connecticut in January of 2017.
-            </p>
+            <p id="teacher-bio">My name is Jackie Burbine. I am so excited to be part of the 4-year old preschool teaching team at Kids-A-Lot! Throughout high school and college I have worked in programs with children of all ages and during that time I became particularly interested in Child Development. I graduated in 2012 from Westfield State University with a Bachelor’s Degree in Special Education. I love the field of teaching and I am most drawn to working with young children due to their openness to explore the world around them. Preschoolers present a welcome challenge as they are becoming independent in their skills and play but also require much love and support while reaching their milestones while preparing for public school. In my time away from Kids-A-Lot I spend time with my family in Maine, and hike while my boyfriend plays disc golf. I am currently attending Lesley University for my masters in Early Childhood Education.</p>
+            <hr id="clear" />
+        </div>
+
+        <div class="teacher">
+            <div id="teacher-picture">
+                <img src="images/staff/blank.png" />
+                <span>Diane</span>
+            </div>
+            <p id="teacher-bio">Diane has been working with young children at Kids-A-Lot for the past six years. She is DEEC certified for preschool. Diane enjoys the experience of helping young children and watching them develop and grow. <br />When Diane is not working, she is raising her fourteen year old grandson, Joshua. She spends much of her time watching him play sports and finding other activities that they both enjoy. Diane is an avid Patriots and Red Sox fan and loves watching a good game.</p>
             <hr id="clear" />
         </div>
 

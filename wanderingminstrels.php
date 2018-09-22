@@ -23,10 +23,10 @@
 
             <div class="teacher">
                 <div id="teacher-picture">
-                    <img src="images/staff/ale_d.jpg" />
-                    <span>Ale DiGaeta</span>
+                    <img src="images/staff/aneta_s.jpg" />
+                    <span>Aneta Slone</span>
                 </div>
-                <p id="teacher-bio">Ale has been working with small children for ten years. She is DEEC Certified for Infants/Toddlers. She loves spending her time interacting with the very young and teaching them new things! Ale is from Uruguay and has lived in the United States for eleven years. She has a fifteen year old son Santiago and on March 19th of 2012 she had another little boy named Gaston! In her free time she likes to listen to music, dance, and watch movies. She enjoys spending time with her family and friends and loves going to her son’s soccer games!</p>
+                <p id="teacher-bio">Hello, my name is Aneta (Ania) Slone. I started working within Kids-A-Lot in the beginning of September 2016. In 2015, I obtained a Certificate in Child Growth and Development Course from North Shore Community Center. In the past, I've worked as a Gymnastics Instructor at the YMCA of the North Shore in Marblehead, MA. At Kids-A-Lot I enjoy implementing movement and overall agility through the use of our daily programming. Through my experience working with young children, I have realized how rewarding and fulfilling it feels to work in the Early Educaton field. To be able to be part of children's developmental milestones they overcome on a daily basis feels wonderful. I truly enjoy children's happy attitude, their unending curiosity and receiving random hugs and plenty of smiles throughout the day. I believe it is important to have an environment in which the children can feel motivated and learn how to face new challenges and feel proud of themselves. I found a great joy and happiness watching children of all skill levels reach their goals and overcome their obstacles. In my free time, I love spending time with my two daughters, Izabela and Maja. We like to be active and go roller-skating and taking walks in the woods. I also love reading, dancing, and travelling to new places.</p>
                 <hr id="clear" />
             </div>
 
@@ -41,12 +41,22 @@
 
             <div class="teacher">
                 <div id="teacher-picture">
-                    <img src="images/staff/aneta_s.jpg" />
-                    <span>Aneta Slone</span>
+                    <img src="images/staff/ale_d.jpg" />
+                    <span>Ale DiGaeta</span>
                 </div>
-                <p id="teacher-bio">Hello, I started working within Kids-A-Lot in the beginning of September 2016. In 2015, I obtained a Certificate in Child Growth and Development Course from North Shore Community Center. For the last several years I've worked as a Gymnastics Instructor at the YMCA of the North Shore in Marblehead, MA. At Kids-A-Lot I enjoy implementing movement and overall agility through the use of our daily programming. Through my experience working with young children, I have realized how rewarding and fulfilling it feels to work in the Early Educaton field. To be able to be part of children's developmental milestones they overcome on a daily basis feels wonderful. I truly enjoy children's happy attitude, their unending curiosity and receiving random hugs and plenty of smiles throughout the day. I believe it is important to have an environment in which the children can feel motivated and learn how to face new challenges and feel proud of themselves. I found a great joy and happiness watching children of all skill levels reach their goals and overcome their obstacles. In my free time, I love spending time with my two daughters, Izabela and Maja. We like to be active and go roller-skating and taking walks in the woods. I also love reading, dancing, and travelling to new places.</p>
+                <p id="teacher-bio">Ale has been working with young children for 14 years. She attended Mount Wachusett Community College and Framingham State University. She is DEEC certified for the Infant and Toddler age group. Ale loves working with young children and being able to see the curiosity of the children guide them to new findings and learning experiences. In her free time, she likes to watch movies, spend time with her two sons, Gaston and Santiago, and listen to music.</p>
                 <hr id="clear" />
             </div>
+
+            <div class="teacher">
+                <div id="teacher-picture">
+                    <img src="images/staff/marcia_w.jpg" />
+                    <span>Marcia Weiner</span>
+                </div>
+                <p id="teacher-bio">Hello, my name is Marcia Weiner. My work career began with working full-time in the corporate world in the Software and Networking field. After my daughter came along (now 15) I decided to look for work that would allow me to be home for my daughter when needed. I used my position within Nashoba Valley Technical High School to open up a passion for working with students and their families. I feel deeply rewarded each day I get to work with children. I started working for Kids-A-Lot in October 2013 as part-time teaching assistant. In the summer of 2015 I completed a course in Child Growth and Development and received my Teaching Certificate. I am now quite happy to be part of the Young Toddlers room on a full-time basis. My drive and motivation amongst the corporate world as well as my personal experiences of raising my own daughter allow me to be a well-rounded educator.</p>
+                <hr id="clear" />
+            </div>
+
         </div>
 
 
