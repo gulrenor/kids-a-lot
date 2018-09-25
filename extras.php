@@ -19,16 +19,22 @@
         <p>by</p>
         <p>Nancy<br />Railsback</p>
       </div>
-      <p class="desc">Folk Music with Nancy Railsback</p>
+      <p class="desc"><strong>Nancy Railsback</strong> is an education professor at Massachusetts Bay Community College located in Wellesley Hills, Massachusetts. She is eager to share her love and talent of music with the children. The Music Program is designed for infants through Kindergarten Enrichment aged children to explore through movement, sing group songs, and touch and explore with a variety of different musical instruments on a regular basis. All sessions are developmentally appropriate for each specific age group. Sessions are held within individual classrooms or on a larger scale outdoors for the summer months.</p>
     </div>
 
     <div class="p3col">
       <h2>Karate<span class="extra">Extra</span></h2>
       <div class="circle purple">
         <p>by</p>
-        <p>Eric<br />Frost</p>
+        <p>Grandmaster<br />Eric<br />Frost</p>
       </div>
-      <p class="desc">Karate with Eric Frost from Stow Martial Arts</p>
+      <p class="desc">The Martial Arts have long been shrouded in mystery and greatly misunderstood by the majority of people. Simply mention the word &quot;<a target="_new" href="https://en.wikipedia.org/wiki/Karate">Karate</a>&quot; in a crowd and someone will be thinking of a guys-only club where macho men stand around flexing their muscles in front of a mirror while breaking bricks over their heads.
+      <br /><br />
+      Not in this School.
+      <br /><br />
+      Ethereal Arts is committed to teaching the &quot;Science of Self Defense.&quot; In other words, Kenpo Karate is not a force against force contest where the strongest wins. The &quot;Science of <a target="_new" href="https://en.wikipedia.org/wiki/Self-defense">Self Defense</a>&quot; is in the understanding of angles and positions and using the right tool for the job. Karate is not just for the big nor is it only for the strong. Kenpo is for anyone large or small, young or old, and even people that may be overweight or have an old injury. Since Kenpo is an &quot;intelligence&quot; art, it can be tailored to the individual. Our facility offers a total of six martial arts for you to choose from to better suit your individual needs.
+      <br /><br />
+      All children’s sessions are focused on practicing respect, patience and guidance for the art. Children are interactive throughout the sessions and learn many valuable life skills and lessons through the weekly sessions that are held right at the Kids A Lot location. Karate sessions are open to preschool children that are potty trained.</p>
     </div>
 
     <hr id="clear" />
