@@ -60,7 +60,7 @@
 
         <div class="teacher">
             <div id="teacher-picture">
-                <img src="images/staff/blank.png" />
+                <img src="images/staff/ellen_r.jpg" />
                 <span>Ellen Randolph</span>
             </div>
             <p id="teacher-bio">Hi, my name is Ellen Randolph and I am a teacher in the Kindergarten Enrichment Classroom. I am a graduate of Rutgers University and I have been with Kids-A-Lot for a bit over two years now. Previously, I worked within the Stow school system and as a substitute teacher for the Nashoba Regional School District. I am DEEC certified preschool teacher and I am currently studying to attain my Lead Teacher Certificate. <br />I live in Stow with my son, Zach, also a Kids-A-Lot alumnus, who will be entering High School in the fall. Toghether we like to travel and discover new things.</p>

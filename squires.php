@@ -39,8 +39,8 @@
 
         <div class="teacher">
             <div id="teacher-picture">
-                <img src="images/staff/blank.png" />
-                <span>Diane</span>
+                <img src="images/staff/diane_i.jpg" />
+                <span>Diane Irons</span>
             </div>
             <p id="teacher-bio">Diane has been working with young children at Kids-A-Lot for the past six years. She is DEEC certified for preschool. Diane enjoys the experience of helping young children and watching them develop and grow. <br />When Diane is not working, she is raising her fourteen year old grandson, Joshua. She spends much of her time watching him play sports and finding other activities that they both enjoy. Diane is an avid Patriots and Red Sox fan and loves watching a good game.</p>
             <hr id="clear" />
